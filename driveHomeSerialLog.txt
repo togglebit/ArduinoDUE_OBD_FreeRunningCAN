@@ -1,0 +1,4412 @@
+System Reset
+Engine Speed 0.00 RPM
+Throttle 0.00 %
+Coolant -40.00 C
+Speed 0.00 KPH
+Load 0.00 %
+MAF 0.00 grams/s
+IAT -40.00 C
+Engine Speed 862.50 RPM
+Throttle 16.08 %
+Coolant 59.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.17 grams/s
+IAT 25.00 C
+Engine Speed 865.50 RPM
+Throttle 16.08 %
+Coolant 59.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.10 grams/s
+IAT 25.00 C
+Engine Speed 857.75 RPM
+Throttle 16.08 %
+Coolant 59.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.17 grams/s
+IAT 25.00 C
+Engine Speed 870.25 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.18 grams/s
+IAT 25.00 C
+Engine Speed 859.25 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.15 grams/s
+IAT 25.00 C
+Engine Speed 844.50 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 4.09 grams/s
+IAT 25.00 C
+Engine Speed 842.75 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.07 grams/s
+IAT 25.00 C
+Engine Speed 849.00 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.10 grams/s
+IAT 25.00 C
+Engine Speed 847.50 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.07 grams/s
+IAT 25.00 C
+Engine Speed 849.00 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 4.06 grams/s
+IAT 25.00 C
+Engine Speed 844.50 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.06 grams/s
+IAT 25.00 C
+Engine Speed 846.75 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.03 grams/s
+IAT 25.00 C
+Engine Speed 827.25 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.98 grams/s
+IAT 25.00 C
+Engine Speed 820.25 RPM
+Throttle 16.08 %
+Coolant 60.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.98 grams/s
+IAT 25.00 C
+Engine Speed 829.50 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 4.01 grams/s
+IAT 25.00 C
+Engine Speed 826.50 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.95 grams/s
+IAT 25.00 C
+Engine Speed 823.25 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.93 grams/s
+IAT 25.00 C
+Engine Speed 818.75 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.95 grams/s
+IAT 25.00 C
+Engine Speed 827.25 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.98 grams/s
+IAT 25.00 C
+Engine Speed 825.00 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.90 grams/s
+IAT 25.00 C
+Engine Speed 809.25 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.90 grams/s
+IAT 25.00 C
+Engine Speed 825.75 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.90 grams/s
+IAT 25.00 C
+Engine Speed 815.50 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.90 grams/s
+IAT 25.00 C
+Engine Speed 812.50 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.92 grams/s
+IAT 25.00 C
+Engine Speed 823.25 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.89 grams/s
+IAT 25.00 C
+Engine Speed 819.50 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.89 grams/s
+IAT 25.00 C
+Engine Speed 816.25 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.87 grams/s
+IAT 25.00 C
+Engine Speed 820.25 RPM
+Throttle 16.08 %
+Coolant 61.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.85 grams/s
+IAT 25.00 C
+Engine Speed 807.75 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.81 grams/s
+IAT 25.00 C
+Engine Speed 798.25 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.81 grams/s
+IAT 25.00 C
+Engine Speed 812.50 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.84 grams/s
+IAT 25.00 C
+Engine Speed 816.25 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.81 grams/s
+IAT 25.00 C
+Engine Speed 796.75 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.76 grams/s
+IAT 25.00 C
+Engine Speed 802.25 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.81 grams/s
+IAT 25.00 C
+Engine Speed 799.00 RPM
+Throttle 16.08 %
+Coolant 62.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.78 grams/s
+IAT 24.00 C
+Engine Speed 810.75 RPM
+Throttle 16.08 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.76 grams/s
+IAT 24.00 C
+Engine Speed 806.25 RPM
+Throttle 16.08 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.75 grams/s
+IAT 24.00 C
+Engine Speed 796.75 RPM
+Throttle 16.08 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.75 grams/s
+IAT 24.00 C
+Engine Speed 803.00 RPM
+Throttle 16.08 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.76 grams/s
+IAT 24.00 C
+Engine Speed 796.00 RPM
+Throttle 16.08 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.76 grams/s
+IAT 24.00 C
+Engine Speed 792.00 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.68 grams/s
+IAT 24.00 C
+Engine Speed 780.25 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 793.75 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.71 grams/s
+IAT 24.00 C
+Engine Speed 789.00 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.71 grams/s
+IAT 24.00 C
+Engine Speed 787.50 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.68 grams/s
+IAT 24.00 C
+Engine Speed 785.00 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.68 grams/s
+IAT 24.00 C
+Engine Speed 782.75 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 778.00 RPM
+Throttle 15.69 %
+Coolant 63.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 784.25 RPM
+Throttle 15.69 %
+Coolant 64.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 785.75 RPM
+Throttle 15.69 %
+Coolant 64.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 785.75 RPM
+Throttle 15.69 %
+Coolant 64.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 778.75 RPM
+Throttle 15.69 %
+Coolant 64.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.62 grams/s
+IAT 24.00 C
+Engine Speed 770.25 RPM
+Throttle 15.69 %
+Coolant 64.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.62 grams/s
+IAT 24.00 C
+Engine Speed 784.25 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.67 grams/s
+IAT 24.00 C
+Engine Speed 767.75 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.62 grams/s
+IAT 24.00 C
+Engine Speed 778.00 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.62 grams/s
+IAT 24.00 C
+Engine Speed 771.00 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.54 grams/s
+IAT 24.00 C
+Engine Speed 770.25 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.56 grams/s
+IAT 24.00 C
+Engine Speed 777.25 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.54 grams/s
+IAT 24.00 C
+Engine Speed 768.75 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.57 grams/s
+IAT 24.00 C
+Engine Speed 771.75 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.56 grams/s
+IAT 24.00 C
+Engine Speed 767.00 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.56 grams/s
+IAT 24.00 C
+Engine Speed 768.75 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.53 grams/s
+IAT 24.00 C
+Engine Speed 766.25 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.57 grams/s
+IAT 24.00 C
+Engine Speed 771.75 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.57 grams/s
+IAT 24.00 C
+Engine Speed 757.75 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.53 grams/s
+IAT 24.00 C
+Engine Speed 759.25 RPM
+Throttle 15.69 %
+Coolant 65.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.53 grams/s
+IAT 24.00 C
+Engine Speed 752.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.53 grams/s
+IAT 24.00 C
+Engine Speed 761.50 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.54 grams/s
+IAT 24.00 C
+Engine Speed 764.00 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.53 grams/s
+IAT 24.00 C
+Engine Speed 764.75 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.53 grams/s
+IAT 24.00 C
+Engine Speed 746.00 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.50 grams/s
+IAT 24.00 C
+Engine Speed 752.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.45 grams/s
+IAT 24.00 C
+Engine Speed 745.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.50 grams/s
+IAT 24.00 C
+Engine Speed 756.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.45 grams/s
+IAT 24.00 C
+Engine Speed 740.50 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.48 grams/s
+IAT 24.00 C
+Engine Speed 752.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.45 grams/s
+IAT 24.00 C
+Engine Speed 760.00 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.50 grams/s
+IAT 24.00 C
+Engine Speed 743.75 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.48 grams/s
+IAT 24.00 C
+Engine Speed 741.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.50 grams/s
+IAT 24.00 C
+Engine Speed 734.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.46 grams/s
+IAT 24.00 C
+Engine Speed 748.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.48 grams/s
+IAT 24.00 C
+Engine Speed 745.25 RPM
+Throttle 15.69 %
+Coolant 66.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.48 grams/s
+IAT 24.00 C
+Engine Speed 746.00 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.45 grams/s
+IAT 24.00 C
+Engine Speed 733.50 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.40 grams/s
+IAT 24.00 C
+Engine Speed 731.25 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.43 grams/s
+IAT 24.00 C
+Engine Speed 741.25 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.40 grams/s
+IAT 24.00 C
+Engine Speed 735.00 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.40 grams/s
+IAT 24.00 C
+Engine Speed 738.25 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.39 grams/s
+IAT 24.00 C
+Engine Speed 731.25 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.40 grams/s
+IAT 24.00 C
+Engine Speed 746.75 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.40 grams/s
+IAT 24.00 C
+Engine Speed 730.25 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.40 grams/s
+IAT 24.00 C
+Engine Speed 736.50 RPM
+Throttle 15.69 %
+Coolant 67.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.39 grams/s
+IAT 24.00 C
+Engine Speed 732.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.39 grams/s
+IAT 25.00 C
+Engine Speed 728.75 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.39 grams/s
+IAT 25.00 C
+Engine Speed 723.25 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.35 grams/s
+IAT 25.00 C
+Engine Speed 724.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.26 grams/s
+IAT 25.00 C
+Engine Speed 725.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 727.25 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.34 grams/s
+IAT 25.00 C
+Engine Speed 718.75 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 725.75 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 724.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 715.50 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 725.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.32 grams/s
+IAT 25.00 C
+Engine Speed 724.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 726.50 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.26 grams/s
+IAT 25.00 C
+Engine Speed 721.00 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.34 grams/s
+IAT 25.00 C
+Engine Speed 713.25 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 714.75 RPM
+Throttle 15.69 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.28 grams/s
+IAT 25.00 C
+Engine Speed 737.50 RPM
+Throttle 20.39 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 58.44 %
+MAF 3.31 grams/s
+IAT 25.00 C
+Engine Speed 4681.25 RPM
+Throttle 16.86 %
+Coolant 68.00 C
+Speed 0.00 KPH
+Load 13.73 %
+MAF 5.14 grams/s
+IAT 23.00 C
+Engine Speed 2491.25 RPM
+Throttle 16.08 %
+Coolant 69.00 C
+Speed 0.00 KPH
+Load 16.08 %
+MAF 4.17 grams/s
+IAT 23.00 C
+Engine Speed 1289.00 RPM
+Throttle 15.69 %
+Coolant 69.00 C
+Speed 0.00 KPH
+Load 25.49 %
+MAF 4.57 grams/s
+IAT 23.00 C
+Engine Speed 908.50 RPM
+Throttle 15.69 %
+Coolant 69.00 C
+Speed 0.00 KPH
+Load 30.20 %
+MAF 3.82 grams/s
+IAT 23.00 C
+Engine Speed 1078.00 RPM
+Throttle 15.69 %
+Coolant 69.00 C
+Speed 0.00 KPH
+Load 28.24 %
+MAF 3.79 grams/s
+IAT 23.00 C
+Engine Speed 2497.50 RPM
+Throttle 17.65 %
+Coolant 69.00 C
+Speed 0.00 KPH
+Load 38.83 %
+MAF 19.20 grams/s
+IAT 23.00 C
+Engine Speed 4528.75 RPM
+Throttle 23.92 %
+Coolant 70.00 C
+Speed 0.00 KPH
+Load 29.81 %
+MAF 16.50 grams/s
+IAT 22.00 C
+Engine Speed 4628.75 RPM
+Throttle 21.96 %
+Coolant 70.00 C
+Speed 0.00 KPH
+Load 24.71 %
+MAF 22.06 grams/s
+IAT 21.00 C
+Engine Speed 4490.50 RPM
+Throttle 23.53 %
+Coolant 70.00 C
+Speed 0.00 KPH
+Load 27.06 %
+MAF 25.65 grams/s
+IAT 21.00 C
+Engine Speed 5822.50 RPM
+Throttle 29.81 %
+Coolant 70.00 C
+Speed 0.00 KPH
+Load 40.79 %
+MAF 56.78 grams/s
+IAT 20.00 C
+Engine Speed 5832.00 RPM
+Throttle 23.92 %
+Coolant 70.00 C
+Speed 0.00 KPH
+Load 25.10 %
+MAF 29.60 grams/s
+IAT 20.00 C
+Engine Speed 5579.50 RPM
+Throttle 22.36 %
+Coolant 71.00 C
+Speed 0.00 KPH
+Load 16.08 %
+MAF 4.32 grams/s
+IAT 20.00 C
+Engine Speed 2950.00 RPM
+Throttle 15.69 %
+Coolant 71.00 C
+Speed 0.00 KPH
+Load 14.12 %
+MAF 3.67 grams/s
+IAT 20.00 C
+Engine Speed 1728.75 RPM
+Throttle 16.47 %
+Coolant 71.00 C
+Speed 0.00 KPH
+Load 24.71 %
+MAF 4.35 grams/s
+IAT 21.00 C
+Engine Speed 857.75 RPM
+Throttle 16.47 %
+Coolant 72.00 C
+Speed 0.00 KPH
+Load 29.02 %
+MAF 4.15 grams/s
+IAT 21.00 C
+Engine Speed 746.75 RPM
+Throttle 15.69 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 30.98 %
+MAF 3.45 grams/s
+IAT 21.00 C
+Engine Speed 742.75 RPM
+Throttle 15.69 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 30.59 %
+MAF 3.14 grams/s
+IAT 22.00 C
+Engine Speed 700.00 RPM
+Throttle 15.69 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 30.98 %
+MAF 3.14 grams/s
+IAT 22.00 C
+Engine Speed 695.25 RPM
+Throttle 15.30 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 30.98 %
+MAF 3.01 grams/s
+IAT 22.00 C
+Engine Speed 675.00 RPM
+Throttle 15.30 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 30.98 %
+MAF 3.01 grams/s
+IAT 22.00 C
+Engine Speed 658.50 RPM
+Throttle 15.30 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.98 grams/s
+IAT 23.00 C
+Engine Speed 669.50 RPM
+Throttle 15.30 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.98 grams/s
+IAT 23.00 C
+Engine Speed 656.25 RPM
+Throttle 15.30 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 650.00 RPM
+Throttle 15.30 %
+Coolant 73.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 650.00 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 646.75 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 644.50 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 642.75 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 655.25 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 642.75 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.92 grams/s
+IAT 23.00 C
+Engine Speed 646.75 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 638.25 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 633.50 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 642.75 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 640.50 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 639.00 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 646.00 RPM
+Throttle 15.30 %
+Coolant 74.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.92 grams/s
+IAT 23.00 C
+Engine Speed 644.50 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.93 grams/s
+IAT 23.00 C
+Engine Speed 642.75 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 636.50 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.92 grams/s
+IAT 23.00 C
+Engine Speed 635.75 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 640.50 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.87 grams/s
+IAT 23.00 C
+Engine Speed 634.25 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 639.75 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.85 grams/s
+IAT 23.00 C
+Engine Speed 638.25 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 645.25 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.85 grams/s
+IAT 23.00 C
+Engine Speed 646.75 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 639.75 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 23.00 C
+Engine Speed 638.25 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.38 %
+MAF 2.89 grams/s
+IAT 24.00 C
+Engine Speed 645.25 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 24.00 C
+Engine Speed 623.25 RPM
+Throttle 15.30 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.85 grams/s
+IAT 24.00 C
+Engine Speed 688.25 RPM
+Throttle 16.08 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 4.10 grams/s
+IAT 24.00 C
+Engine Speed 667.75 RPM
+Throttle 15.69 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 3.79 grams/s
+IAT 23.00 C
+Engine Speed 660.00 RPM
+Throttle 15.69 %
+Coolant 75.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 3.75 grams/s
+IAT 23.00 C
+Engine Speed 656.25 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 3.76 grams/s
+IAT 23.00 C
+Engine Speed 650.00 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 3.76 grams/s
+IAT 23.00 C
+Engine Speed 661.50 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 36.87 %
+MAF 3.76 grams/s
+IAT 23.00 C
+Engine Speed 669.50 RPM
+Throttle 16.08 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 37.65 %
+MAF 3.87 grams/s
+IAT 23.00 C
+Engine Speed 636.50 RPM
+Throttle 16.08 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 37.65 %
+MAF 3.79 grams/s
+IAT 23.00 C
+Engine Speed 665.50 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 36.87 %
+MAF 3.76 grams/s
+IAT 23.00 C
+Engine Speed 653.00 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 3.79 grams/s
+IAT 23.00 C
+Engine Speed 650.00 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 36.47 %
+MAF 4.79 grams/s
+IAT 23.00 C
+Engine Speed 664.75 RPM
+Throttle 17.65 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 38.04 %
+MAF 3.67 grams/s
+IAT 23.00 C
+Engine Speed 1332.00 RPM
+Throttle 18.04 %
+Coolant 76.00 C
+Speed 0.00 KPH
+Load 48.24 %
+MAF 6.67 grams/s
+IAT 23.00 C
+Engine Speed 767.75 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 5.00 KPH
+Load 36.08 %
+MAF 3.67 grams/s
+IAT 23.00 C
+Engine Speed 726.50 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 6.00 KPH
+Load 32.94 %
+MAF 3.53 grams/s
+IAT 23.00 C
+Engine Speed 747.50 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 8.00 KPH
+Load 32.55 %
+MAF 3.93 grams/s
+IAT 23.00 C
+Engine Speed 761.50 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 8.00 KPH
+Load 32.55 %
+MAF 4.10 grams/s
+IAT 23.00 C
+Engine Speed 817.00 RPM
+Throttle 16.86 %
+Coolant 76.00 C
+Speed 10.00 KPH
+Load 38.04 %
+MAF 8.81 grams/s
+IAT 23.00 C
+Engine Speed 925.00 RPM
+Throttle 16.47 %
+Coolant 76.00 C
+Speed 12.00 KPH
+Load 31.38 %
+MAF 3.29 grams/s
+IAT 23.00 C
+Engine Speed 1132.00 RPM
+Throttle 19.22 %
+Coolant 76.00 C
+Speed 14.00 KPH
+Load 50.20 %
+MAF 9.90 grams/s
+IAT 23.00 C
+Engine Speed 1241.25 RPM
+Throttle 16.86 %
+Coolant 76.00 C
+Speed 16.00 KPH
+Load 47.46 %
+MAF 11.98 grams/s
+IAT 23.00 C
+Engine Speed 1097.50 RPM
+Throttle 15.69 %
+Coolant 76.00 C
+Speed 18.00 KPH
+Load 28.24 %
+MAF 4.21 grams/s
+IAT 23.00 C
+Engine Speed 988.25 RPM
+Throttle 16.08 %
+Coolant 77.00 C
+Speed 18.00 KPH
+Load 28.63 %
+MAF 4.17 grams/s
+IAT 23.00 C
+Engine Speed 889.00 RPM
+Throttle 16.08 %
+Coolant 77.00 C
+Speed 18.00 KPH
+Load 30.98 %
+MAF 4.01 grams/s
+IAT 23.00 C
+Engine Speed 739.00 RPM
+Throttle 15.69 %
+Coolant 77.00 C
+Speed 13.00 KPH
+Load 32.16 %
+MAF 3.35 grams/s
+IAT 23.00 C
+Engine Speed 699.00 RPM
+Throttle 15.69 %
+Coolant 77.00 C
+Speed 11.00 KPH
+Load 33.73 %
+MAF 3.54 grams/s
+IAT 23.00 C
+Engine Speed 647.50 RPM
+Throttle 16.08 %
+Coolant 77.00 C
+Speed 6.00 KPH
+Load 37.65 %
+MAF 7.09 grams/s
+IAT 23.00 C
+Engine Speed 1064.75 RPM
+Throttle 18.43 %
+Coolant 77.00 C
+Speed 6.00 KPH
+Load 45.10 %
+MAF 8.45 grams/s
+IAT 23.00 C
+Engine Speed 1160.00 RPM
+Throttle 18.04 %
+Coolant 77.00 C
+Speed 6.00 KPH
+Load 45.10 %
+MAF 6.81 grams/s
+IAT 22.00 C
+Engine Speed 1386.50 RPM
+Throttle 18.04 %
+Coolant 78.00 C
+Speed 12.00 KPH
+Load 36.08 %
+MAF 9.43 grams/s
+IAT 22.00 C
+Engine Speed 1614.00 RPM
+Throttle 20.39 %
+Coolant 78.00 C
+Speed 12.00 KPH
+Load 48.24 %
+MAF 18.65 grams/s
+IAT 22.00 C
+Engine Speed 1471.00 RPM
+Throttle 20.00 %
+Coolant 78.00 C
+Speed 19.00 KPH
+Load 61.58 %
+MAF 15.14 grams/s
+IAT 21.00 C
+Engine Speed 1586.50 RPM
+Throttle 19.61 %
+Coolant 78.00 C
+Speed 22.00 KPH
+Load 54.12 %
+MAF 14.32 grams/s
+IAT 21.00 C
+Engine Speed 1422.50 RPM
+Throttle 19.61 %
+Coolant 78.00 C
+Speed 26.00 KPH
+Load 55.69 %
+MAF 15.78 grams/s
+IAT 21.00 C
+Engine Speed 1371.00 RPM
+Throttle 18.43 %
+Coolant 78.00 C
+Speed 30.00 KPH
+Load 48.24 %
+MAF 14.46 grams/s
+IAT 21.00 C
+Engine Speed 1124.00 RPM
+Throttle 17.26 %
+Coolant 78.00 C
+Speed 32.00 KPH
+Load 42.36 %
+MAF 6.45 grams/s
+IAT 21.00 C
+Engine Speed 871.75 RPM
+Throttle 15.69 %
+Coolant 78.00 C
+Speed 32.00 KPH
+Load 33.73 %
+MAF 3.54 grams/s
+IAT 21.00 C
+Engine Speed 871.75 RPM
+Throttle 15.69 %
+Coolant 78.00 C
+Speed 32.00 KPH
+Load 29.02 %
+MAF 3.50 grams/s
+IAT 21.00 C
+Engine Speed 885.75 RPM
+Throttle 15.69 %
+Coolant 78.00 C
+Speed 33.00 KPH
+Load 29.41 %
+MAF 3.71 grams/s
+IAT 21.00 C
+Engine Speed 878.75 RPM
+Throttle 15.69 %
+Coolant 79.00 C
+Speed 33.00 KPH
+Load 29.41 %
+MAF 3.67 grams/s
+IAT 22.00 C
+Engine Speed 836.50 RPM
+Throttle 15.69 %
+Coolant 79.00 C
+Speed 33.00 KPH
+Load 29.81 %
+MAF 3.76 grams/s
+IAT 22.00 C
+Engine Speed 803.00 RPM
+Throttle 15.69 %
+Coolant 79.00 C
+Speed 33.00 KPH
+Load 30.59 %
+MAF 3.45 grams/s
+IAT 22.00 C
+Engine Speed 1006.25 RPM
+Throttle 16.47 %
+Coolant 79.00 C
+Speed 29.00 KPH
+Load 34.91 %
+MAF 4.62 grams/s
+IAT 22.00 C
+Engine Speed 1042.00 RPM
+Throttle 17.26 %
+Coolant 79.00 C
+Speed 27.00 KPH
+Load 37.26 %
+MAF 5.96 grams/s
+IAT 22.00 C
+Engine Speed 1041.25 RPM
+Throttle 18.04 %
+Coolant 79.00 C
+Speed 26.00 KPH
+Load 41.57 %
+MAF 9.39 grams/s
+IAT 21.00 C
+Engine Speed 1424.00 RPM
+Throttle 19.61 %
+Coolant 79.00 C
+Speed 26.00 KPH
+Load 47.46 %
+MAF 14.78 grams/s
+IAT 21.00 C
+Engine Speed 1320.25 RPM
+Throttle 19.22 %
+Coolant 79.00 C
+Speed 26.00 KPH
+Load 55.30 %
+MAF 13.79 grams/s
+IAT 20.00 C
+Engine Speed 1398.25 RPM
+Throttle 19.61 %
+Coolant 79.00 C
+Speed 29.00 KPH
+Load 58.05 %
+MAF 13.43 grams/s
+IAT 20.00 C
+Engine Speed 1322.50 RPM
+Throttle 18.83 %
+Coolant 80.00 C
+Speed 29.00 KPH
+Load 50.59 %
+MAF 11.01 grams/s
+IAT 20.00 C
+Engine Speed 1531.25 RPM
+Throttle 20.00 %
+Coolant 80.00 C
+Speed 29.00 KPH
+Load 61.18 %
+MAF 17.21 grams/s
+IAT 19.00 C
+Engine Speed 1442.75 RPM
+Throttle 20.39 %
+Coolant 80.00 C
+Speed 31.00 KPH
+Load 59.22 %
+MAF 15.50 grams/s
+IAT 19.00 C
+Engine Speed 1423.25 RPM
+Throttle 20.39 %
+Coolant 80.00 C
+Speed 30.00 KPH
+Load 59.61 %
+MAF 15.07 grams/s
+IAT 18.00 C
+Engine Speed 1341.25 RPM
+Throttle 20.00 %
+Coolant 80.00 C
+Speed 32.00 KPH
+Load 58.83 %
+MAF 13.57 grams/s
+IAT 18.00 C
+Engine Speed 1353.75 RPM
+Throttle 21.96 %
+Coolant 80.00 C
+Speed 30.00 KPH
+Load 66.28 %
+MAF 17.84 grams/s
+IAT 18.00 C
+Engine Speed 1442.00 RPM
+Throttle 20.00 %
+Coolant 80.00 C
+Speed 29.00 KPH
+Load 61.58 %
+MAF 15.34 grams/s
+IAT 18.00 C
+Engine Speed 1696.75 RPM
+Throttle 23.53 %
+Coolant 80.00 C
+Speed 28.00 KPH
+Load 70.99 %
+MAF 22.00 grams/s
+IAT 17.00 C
+Engine Speed 1239.75 RPM
+Throttle 16.47 %
+Coolant 80.00 C
+Speed 28.00 KPH
+Load 55.69 %
+MAF 11.06 grams/s
+IAT 17.00 C
+Engine Speed 1120.25 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 30.00 KPH
+Load 27.06 %
+MAF 4.39 grams/s
+IAT 17.00 C
+Engine Speed 1095.25 RPM
+Throttle 16.08 %
+Coolant 81.00 C
+Speed 30.00 KPH
+Load 27.45 %
+MAF 4.12 grams/s
+IAT 18.00 C
+Engine Speed 1100.75 RPM
+Throttle 16.47 %
+Coolant 81.00 C
+Speed 30.00 KPH
+Load 29.41 %
+MAF 4.23 grams/s
+IAT 19.00 C
+Engine Speed 1071.75 RPM
+Throttle 16.08 %
+Coolant 81.00 C
+Speed 30.00 KPH
+Load 28.24 %
+MAF 4.20 grams/s
+IAT 19.00 C
+Engine Speed 1025.75 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 29.00 KPH
+Load 27.85 %
+MAF 3.92 grams/s
+IAT 19.00 C
+Engine Speed 957.00 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 26.00 KPH
+Load 28.24 %
+MAF 3.51 grams/s
+IAT 19.00 C
+Engine Speed 834.25 RPM
+Throttle 17.26 %
+Coolant 81.00 C
+Speed 24.00 KPH
+Load 29.02 %
+MAF 3.35 grams/s
+IAT 20.00 C
+Engine Speed 1017.75 RPM
+Throttle 18.43 %
+Coolant 82.00 C
+Speed 22.00 KPH
+Load 47.06 %
+MAF 9.39 grams/s
+IAT 19.00 C
+Engine Speed 1288.25 RPM
+Throttle 20.00 %
+Coolant 82.00 C
+Speed 23.00 KPH
+Load 47.85 %
+MAF 10.73 grams/s
+IAT 19.00 C
+Engine Speed 1470.25 RPM
+Throttle 21.57 %
+Coolant 82.00 C
+Speed 22.00 KPH
+Load 66.67 %
+MAF 21.67 grams/s
+IAT 18.00 C
+Engine Speed 2225.00 RPM
+Throttle 29.41 %
+Coolant 82.00 C
+Speed 24.00 KPH
+Load 86.28 %
+MAF 42.92 grams/s
+IAT 16.00 C
+Engine Speed 2347.50 RPM
+Throttle 32.55 %
+Coolant 82.00 C
+Speed 27.00 KPH
+Load 88.24 %
+MAF 54.70 grams/s
+IAT 16.00 C
+Engine Speed 2562.50 RPM
+Throttle 29.41 %
+Coolant 82.00 C
+Speed 35.00 KPH
+Load 81.97 %
+MAF 52.42 grams/s
+IAT 15.00 C
+Engine Speed 2267.00 RPM
+Throttle 24.32 %
+Coolant 83.00 C
+Speed 40.00 KPH
+Load 67.07 %
+MAF 41.43 grams/s
+IAT 14.00 C
+Engine Speed 1775.75 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 47.00 KPH
+Load 50.59 %
+MAF 14.71 grams/s
+IAT 14.00 C
+Engine Speed 1221.75 RPM
+Throttle 17.65 %
+Coolant 83.00 C
+Speed 46.00 KPH
+Load 45.10 %
+MAF 8.06 grams/s
+IAT 14.00 C
+Engine Speed 1364.75 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 44.00 KPH
+Load 61.97 %
+MAF 21.62 grams/s
+IAT 15.00 C
+Engine Speed 1644.50 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 43.00 KPH
+Load 65.89 %
+MAF 21.03 grams/s
+IAT 15.00 C
+Engine Speed 1554.50 RPM
+Throttle 21.96 %
+Coolant 84.00 C
+Speed 43.00 KPH
+Load 65.11 %
+MAF 18.92 grams/s
+IAT 14.00 C
+Engine Speed 1543.75 RPM
+Throttle 20.79 %
+Coolant 85.00 C
+Speed 43.00 KPH
+Load 61.58 %
+MAF 16.37 grams/s
+IAT 14.00 C
+Engine Speed 1585.75 RPM
+Throttle 21.18 %
+Coolant 85.00 C
+Speed 43.00 KPH
+Load 63.93 %
+MAF 19.09 grams/s
+IAT 14.00 C
+Engine Speed 1774.00 RPM
+Throttle 25.10 %
+Coolant 85.00 C
+Speed 46.00 KPH
+Load 76.48 %
+MAF 27.70 grams/s
+IAT 13.00 C
+Engine Speed 1794.50 RPM
+Throttle 29.41 %
+Coolant 85.00 C
+Speed 46.00 KPH
+Load 87.07 %
+MAF 23.79 grams/s
+IAT 13.00 C
+Engine Speed 2213.25 RPM
+Throttle 31.77 %
+Coolant 85.00 C
+Speed 50.00 KPH
+Load 87.85 %
+MAF 50.42 grams/s
+IAT 13.00 C
+Engine Speed 1873.25 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 52.00 KPH
+Load 63.54 %
+MAF 36.71 grams/s
+IAT 13.00 C
+Engine Speed 1360.75 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 55.00 KPH
+Load 25.49 %
+MAF 4.29 grams/s
+IAT 13.00 C
+Engine Speed 1303.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 54.00 KPH
+Load 25.89 %
+MAF 2.90 grams/s
+IAT 14.00 C
+Engine Speed 1258.50 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 53.00 KPH
+Load 20.39 %
+MAF 2.76 grams/s
+IAT 14.00 C
+Engine Speed 1178.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 50.00 KPH
+Load 20.79 %
+MAF 2.73 grams/s
+IAT 15.00 C
+Engine Speed 1136.50 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 49.00 KPH
+Load 21.57 %
+MAF 2.73 grams/s
+IAT 15.00 C
+Engine Speed 1095.25 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 47.00 KPH
+Load 21.96 %
+MAF 2.68 grams/s
+IAT 16.00 C
+Engine Speed 1002.25 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 44.00 KPH
+Load 22.75 %
+MAF 2.68 grams/s
+IAT 16.00 C
+Engine Speed 941.25 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 40.00 KPH
+Load 23.53 %
+MAF 2.68 grams/s
+IAT 16.00 C
+Engine Speed 796.00 RPM
+Throttle 16.08 %
+Coolant 83.00 C
+Speed 38.00 KPH
+Load 24.71 %
+MAF 2.68 grams/s
+IAT 16.00 C
+Engine Speed 892.75 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 36.00 KPH
+Load 30.20 %
+MAF 3.68 grams/s
+IAT 16.00 C
+Engine Speed 789.00 RPM
+Throttle 16.08 %
+Coolant 83.00 C
+Speed 32.00 KPH
+Load 30.98 %
+MAF 4.81 grams/s
+IAT 16.00 C
+Engine Speed 856.25 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 28.00 KPH
+Load 29.41 %
+MAF 3.20 grams/s
+IAT 16.00 C
+Engine Speed 571.00 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 20.00 KPH
+Load 30.98 %
+MAF 3.28 grams/s
+IAT 16.00 C
+Engine Speed 632.00 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 17.00 KPH
+Load 34.51 %
+MAF 3.31 grams/s
+IAT 16.00 C
+Engine Speed 591.25 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 8.00 KPH
+Load 36.87 %
+MAF 3.25 grams/s
+IAT 17.00 C
+Engine Speed 614.00 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 3.00 KPH
+Load 34.12 %
+MAF 3.20 grams/s
+IAT 17.00 C
+Engine Speed 618.75 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 3.00 KPH
+Load 34.51 %
+MAF 3.20 grams/s
+IAT 17.00 C
+Engine Speed 615.50 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 3.00 KPH
+Load 34.51 %
+MAF 3.25 grams/s
+IAT 17.00 C
+Engine Speed 620.25 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 0.00 KPH
+Load 34.51 %
+MAF 3.28 grams/s
+IAT 17.00 C
+Engine Speed 618.75 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 0.00 KPH
+Load 34.51 %
+MAF 3.25 grams/s
+IAT 17.00 C
+Engine Speed 617.00 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 0.00 KPH
+Load 34.51 %
+MAF 3.21 grams/s
+IAT 17.00 C
+Engine Speed 621.75 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 0.00 KPH
+Load 34.12 %
+MAF 3.21 grams/s
+IAT 18.00 C
+Engine Speed 652.25 RPM
+Throttle 18.43 %
+Coolant 83.00 C
+Speed 0.00 KPH
+Load 49.02 %
+MAF 3.20 grams/s
+IAT 18.00 C
+Engine Speed 1339.00 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 0.00 KPH
+Load 59.22 %
+MAF 17.17 grams/s
+IAT 16.00 C
+Engine Speed 1740.50 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 5.00 KPH
+Load 65.89 %
+MAF 21.84 grams/s
+IAT 16.00 C
+Engine Speed 1997.50 RPM
+Throttle 23.53 %
+Coolant 83.00 C
+Speed 12.00 KPH
+Load 64.32 %
+MAF 31.21 grams/s
+IAT 15.00 C
+Engine Speed 1729.50 RPM
+Throttle 21.57 %
+Coolant 82.00 C
+Speed 21.00 KPH
+Load 65.11 %
+MAF 25.45 grams/s
+IAT 14.00 C
+Engine Speed 1692.75 RPM
+Throttle 20.79 %
+Coolant 82.00 C
+Speed 23.00 KPH
+Load 56.87 %
+MAF 16.82 grams/s
+IAT 14.00 C
+Engine Speed 1228.00 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 29.00 KPH
+Load 60.01 %
+MAF 10.56 grams/s
+IAT 15.00 C
+Engine Speed 1019.50 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 28.00 KPH
+Load 27.45 %
+MAF 3.82 grams/s
+IAT 15.00 C
+Engine Speed 953.75 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 27.00 KPH
+Load 27.85 %
+MAF 3.73 grams/s
+IAT 16.00 C
+Engine Speed 861.50 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 26.00 KPH
+Load 28.63 %
+MAF 3.68 grams/s
+IAT 16.00 C
+Engine Speed 747.50 RPM
+Throttle 15.69 %
+Coolant 81.00 C
+Speed 22.00 KPH
+Load 29.81 %
+MAF 3.25 grams/s
+IAT 16.00 C
+Engine Speed 579.50 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 19.00 KPH
+Load 32.94 %
+MAF 3.34 grams/s
+IAT 16.00 C
+Engine Speed 735.00 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 14.00 KPH
+Load 32.94 %
+MAF 3.59 grams/s
+IAT 16.00 C
+Engine Speed 613.25 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 7.00 KPH
+Load 34.51 %
+MAF 3.17 grams/s
+IAT 17.00 C
+Engine Speed 591.25 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 5.00 KPH
+Load 34.51 %
+MAF 3.20 grams/s
+IAT 17.00 C
+Engine Speed 610.75 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 3.00 KPH
+Load 34.12 %
+MAF 3.10 grams/s
+IAT 17.00 C
+Engine Speed 609.25 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 3.00 KPH
+Load 34.12 %
+MAF 3.17 grams/s
+IAT 17.00 C
+Engine Speed 611.50 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 3.00 KPH
+Load 34.12 %
+MAF 3.15 grams/s
+IAT 17.00 C
+Engine Speed 618.75 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.17 grams/s
+IAT 18.00 C
+Engine Speed 618.75 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.15 grams/s
+IAT 18.00 C
+Engine Speed 621.00 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.12 grams/s
+IAT 18.00 C
+Engine Speed 617.00 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.15 grams/s
+IAT 18.00 C
+Engine Speed 619.50 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.15 grams/s
+IAT 18.00 C
+Engine Speed 621.75 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.15 grams/s
+IAT 18.00 C
+Engine Speed 619.50 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.20 grams/s
+IAT 18.00 C
+Engine Speed 622.50 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.12 grams/s
+IAT 18.00 C
+Engine Speed 618.75 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 34.12 %
+MAF 3.14 grams/s
+IAT 18.00 C
+Engine Speed 627.25 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.12 grams/s
+IAT 18.00 C
+Engine Speed 614.75 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.10 grams/s
+IAT 18.00 C
+Engine Speed 626.50 RPM
+Throttle 20.39 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 33.73 %
+MAF 3.10 grams/s
+IAT 18.00 C
+Engine Speed 1436.50 RPM
+Throttle 18.43 %
+Coolant 82.00 C
+Speed 0.00 KPH
+Load 45.50 %
+MAF 17.31 grams/s
+IAT 17.00 C
+Engine Speed 1564.00 RPM
+Throttle 21.57 %
+Coolant 82.00 C
+Speed 6.00 KPH
+Load 62.36 %
+MAF 18.07 grams/s
+IAT 16.00 C
+Engine Speed 1746.00 RPM
+Throttle 21.96 %
+Coolant 82.00 C
+Speed 9.00 KPH
+Load 61.18 %
+MAF 21.65 grams/s
+IAT 16.00 C
+Engine Speed 1457.75 RPM
+Throttle 21.57 %
+Coolant 82.00 C
+Speed 17.00 KPH
+Load 57.26 %
+MAF 15.42 grams/s
+IAT 16.00 C
+Engine Speed 1911.50 RPM
+Throttle 27.85 %
+Coolant 82.00 C
+Speed 21.00 KPH
+Load 82.75 %
+MAF 37.76 grams/s
+IAT 15.00 C
+Engine Speed 2290.50 RPM
+Throttle 30.20 %
+Coolant 82.00 C
+Speed 29.00 KPH
+Load 86.68 %
+MAF 46.98 grams/s
+IAT 15.00 C
+Engine Speed 2435.75 RPM
+Throttle 27.45 %
+Coolant 82.00 C
+Speed 32.00 KPH
+Load 73.34 %
+MAF 49.95 grams/s
+IAT 14.00 C
+Engine Speed 2609.25 RPM
+Throttle 29.81 %
+Coolant 82.00 C
+Speed 41.00 KPH
+Load 83.15 %
+MAF 45.68 grams/s
+IAT 13.00 C
+Engine Speed 2175.75 RPM
+Throttle 29.02 %
+Coolant 82.00 C
+Speed 44.00 KPH
+Load 83.15 %
+MAF 41.56 grams/s
+IAT 13.00 C
+Engine Speed 2226.50 RPM
+Throttle 27.85 %
+Coolant 82.00 C
+Speed 47.00 KPH
+Load 78.83 %
+MAF 40.03 grams/s
+IAT 12.00 C
+Engine Speed 2249.00 RPM
+Throttle 27.45 %
+Coolant 82.00 C
+Speed 54.00 KPH
+Load 76.87 %
+MAF 38.17 grams/s
+IAT 12.00 C
+Engine Speed 2289.00 RPM
+Throttle 24.71 %
+Coolant 83.00 C
+Speed 54.00 KPH
+Load 70.99 %
+MAF 36.64 grams/s
+IAT 11.00 C
+Engine Speed 1911.50 RPM
+Throttle 26.67 %
+Coolant 83.00 C
+Speed 58.00 KPH
+Load 74.52 %
+MAF 32.64 grams/s
+IAT 11.00 C
+Engine Speed 1898.25 RPM
+Throttle 25.10 %
+Coolant 83.00 C
+Speed 61.00 KPH
+Load 73.34 %
+MAF 28.81 grams/s
+IAT 11.00 C
+Engine Speed 1859.25 RPM
+Throttle 24.32 %
+Coolant 83.00 C
+Speed 63.00 KPH
+Load 73.34 %
+MAF 29.85 grams/s
+IAT 11.00 C
+Engine Speed 1751.50 RPM
+Throttle 22.36 %
+Coolant 84.00 C
+Speed 63.00 KPH
+Load 65.50 %
+MAF 19.85 grams/s
+IAT 11.00 C
+Engine Speed 1721.00 RPM
+Throttle 20.39 %
+Coolant 84.00 C
+Speed 65.00 KPH
+Load 54.12 %
+MAF 16.92 grams/s
+IAT 11.00 C
+Engine Speed 1774.00 RPM
+Throttle 22.75 %
+Coolant 84.00 C
+Speed 63.00 KPH
+Load 60.01 %
+MAF 21.67 grams/s
+IAT 11.00 C
+Engine Speed 1865.50 RPM
+Throttle 22.75 %
+Coolant 85.00 C
+Speed 65.00 KPH
+Load 66.67 %
+MAF 23.92 grams/s
+IAT 11.00 C
+Engine Speed 1714.00 RPM
+Throttle 19.61 %
+Coolant 85.00 C
+Speed 66.00 KPH
+Load 50.99 %
+MAF 8.39 grams/s
+IAT 11.00 C
+Engine Speed 1725.00 RPM
+Throttle 19.61 %
+Coolant 85.00 C
+Speed 65.00 KPH
+Load 47.85 %
+MAF 14.51 grams/s
+IAT 11.00 C
+Engine Speed 1682.75 RPM
+Throttle 20.39 %
+Coolant 85.00 C
+Speed 64.00 KPH
+Load 49.42 %
+MAF 14.07 grams/s
+IAT 11.00 C
+Engine Speed 1530.25 RPM
+Throttle 16.08 %
+Coolant 85.00 C
+Speed 64.00 KPH
+Load 25.10 %
+MAF 5.14 grams/s
+IAT 11.00 C
+Engine Speed 1771.00 RPM
+Throttle 20.00 %
+Coolant 85.00 C
+Speed 65.00 KPH
+Load 45.89 %
+MAF 13.67 grams/s
+IAT 12.00 C
+Engine Speed 1734.25 RPM
+Throttle 22.36 %
+Coolant 85.00 C
+Speed 64.00 KPH
+Load 60.79 %
+MAF 11.95 grams/s
+IAT 12.00 C
+Engine Speed 1814.00 RPM
+Throttle 21.57 %
+Coolant 84.00 C
+Speed 67.00 KPH
+Load 61.58 %
+MAF 25.81 grams/s
+IAT 11.00 C
+Engine Speed 1863.25 RPM
+Throttle 21.96 %
+Coolant 84.00 C
+Speed 67.00 KPH
+Load 63.14 %
+MAF 22.73 grams/s
+IAT 11.00 C
+Engine Speed 1865.50 RPM
+Throttle 21.18 %
+Coolant 84.00 C
+Speed 69.00 KPH
+Load 56.48 %
+MAF 18.73 grams/s
+IAT 11.00 C
+Engine Speed 1844.50 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 71.00 KPH
+Load 52.55 %
+MAF 17.81 grams/s
+IAT 11.00 C
+Engine Speed 1617.00 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 70.00 KPH
+Load 59.22 %
+MAF 17.31 grams/s
+IAT 11.00 C
+Engine Speed 1302.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 72.00 KPH
+Load 63.54 %
+MAF 15.18 grams/s
+IAT 11.00 C
+Engine Speed 1316.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 72.00 KPH
+Load 64.32 %
+MAF 15.31 grams/s
+IAT 11.00 C
+Engine Speed 1327.25 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 74.00 KPH
+Load 66.28 %
+MAF 17.29 grams/s
+IAT 11.00 C
+Engine Speed 1350.75 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 73.00 KPH
+Load 68.24 %
+MAF 15.98 grams/s
+IAT 11.00 C
+Engine Speed 1352.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 75.00 KPH
+Load 64.32 %
+MAF 16.23 grams/s
+IAT 11.00 C
+Engine Speed 1353.00 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 74.00 KPH
+Load 64.32 %
+MAF 16.43 grams/s
+IAT 11.00 C
+Engine Speed 1367.75 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 76.00 KPH
+Load 70.99 %
+MAF 17.71 grams/s
+IAT 11.00 C
+Engine Speed 1594.50 RPM
+Throttle 23.92 %
+Coolant 83.00 C
+Speed 77.00 KPH
+Load 78.44 %
+MAF 24.26 grams/s
+IAT 11.00 C
+Engine Speed 1789.75 RPM
+Throttle 23.53 %
+Coolant 83.00 C
+Speed 76.00 KPH
+Load 70.60 %
+MAF 24.23 grams/s
+IAT 11.00 C
+Engine Speed 1671.00 RPM
+Throttle 22.75 %
+Coolant 83.00 C
+Speed 76.00 KPH
+Load 68.64 %
+MAF 24.51 grams/s
+IAT 10.00 C
+Engine Speed 1423.25 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 78.00 KPH
+Load 73.34 %
+MAF 21.10 grams/s
+IAT 10.00 C
+Engine Speed 1429.50 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 70.99 %
+MAF 20.26 grams/s
+IAT 10.00 C
+Engine Speed 1438.25 RPM
+Throttle 20.00 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 67.46 %
+MAF 17.78 grams/s
+IAT 10.00 C
+Engine Speed 1439.00 RPM
+Throttle 19.22 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 52.95 %
+MAF 15.09 grams/s
+IAT 10.00 C
+Engine Speed 1441.25 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 80.00 KPH
+Load 57.65 %
+MAF 13.67 grams/s
+IAT 10.00 C
+Engine Speed 1446.00 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 56.48 %
+MAF 14.48 grams/s
+IAT 10.00 C
+Engine Speed 1447.50 RPM
+Throttle 20.00 %
+Coolant 83.00 C
+Speed 80.00 KPH
+Load 57.26 %
+MAF 15.28 grams/s
+IAT 10.00 C
+Engine Speed 1448.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 80.00 KPH
+Load 58.05 %
+MAF 14.65 grams/s
+IAT 10.00 C
+Engine Speed 1449.00 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 81.00 KPH
+Load 57.65 %
+MAF 15.45 grams/s
+IAT 11.00 C
+Engine Speed 1446.75 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 81.00 KPH
+Load 61.18 %
+MAF 16.56 grams/s
+IAT 11.00 C
+Engine Speed 1446.75 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 80.00 KPH
+Load 61.97 %
+MAF 16.78 grams/s
+IAT 11.00 C
+Engine Speed 1434.25 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 64.32 %
+MAF 16.50 grams/s
+IAT 10.00 C
+Engine Speed 1433.50 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 70.60 %
+MAF 23.35 grams/s
+IAT 10.00 C
+Engine Speed 1435.75 RPM
+Throttle 24.32 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 78.83 %
+MAF 23.20 grams/s
+IAT 10.00 C
+Engine Speed 1438.25 RPM
+Throttle 24.71 %
+Coolant 83.00 C
+Speed 78.00 KPH
+Load 80.01 %
+MAF 23.45 grams/s
+IAT 10.00 C
+Engine Speed 1861.50 RPM
+Throttle 24.71 %
+Coolant 83.00 C
+Speed 80.00 KPH
+Load 73.34 %
+MAF 27.40 grams/s
+IAT 9.00 C
+Engine Speed 1814.75 RPM
+Throttle 23.92 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 71.38 %
+MAF 27.04 grams/s
+IAT 9.00 C
+Engine Speed 1472.50 RPM
+Throttle 24.71 %
+Coolant 83.00 C
+Speed 81.00 KPH
+Load 72.95 %
+MAF 23.79 grams/s
+IAT 9.00 C
+Engine Speed 1442.00 RPM
+Throttle 22.75 %
+Coolant 83.00 C
+Speed 81.00 KPH
+Load 72.16 %
+MAF 22.98 grams/s
+IAT 9.00 C
+Engine Speed 1429.50 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 68.64 %
+MAF 20.73 grams/s
+IAT 8.00 C
+Engine Speed 1403.75 RPM
+Throttle 22.75 %
+Coolant 83.00 C
+Speed 79.00 KPH
+Load 74.13 %
+MAF 21.39 grams/s
+IAT 9.00 C
+Engine Speed 1396.75 RPM
+Throttle 23.92 %
+Coolant 83.00 C
+Speed 78.00 KPH
+Load 78.44 %
+MAF 29.90 grams/s
+IAT 9.00 C
+Engine Speed 2013.25 RPM
+Throttle 27.45 %
+Coolant 84.00 C
+Speed 77.00 KPH
+Load 78.44 %
+MAF 35.60 grams/s
+IAT 8.00 C
+Engine Speed 1728.75 RPM
+Throttle 25.10 %
+Coolant 84.00 C
+Speed 77.00 KPH
+Load 78.05 %
+MAF 29.03 grams/s
+IAT 8.00 C
+Engine Speed 1617.75 RPM
+Throttle 24.32 %
+Coolant 84.00 C
+Speed 77.00 KPH
+Load 75.69 %
+MAF 24.95 grams/s
+IAT 8.00 C
+Engine Speed 1667.75 RPM
+Throttle 22.36 %
+Coolant 84.00 C
+Speed 79.00 KPH
+Load 69.03 %
+MAF 19.96 grams/s
+IAT 8.00 C
+Engine Speed 1435.00 RPM
+Throttle 21.57 %
+Coolant 84.00 C
+Speed 80.00 KPH
+Load 69.42 %
+MAF 19.57 grams/s
+IAT 8.00 C
+Engine Speed 1449.00 RPM
+Throttle 23.14 %
+Coolant 84.00 C
+Speed 79.00 KPH
+Load 76.48 %
+MAF 21.67 grams/s
+IAT 8.00 C
+Engine Speed 1538.25 RPM
+Throttle 24.71 %
+Coolant 84.00 C
+Speed 81.00 KPH
+Load 74.91 %
+MAF 29.54 grams/s
+IAT 8.00 C
+Engine Speed 1489.75 RPM
+Throttle 20.79 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 65.50 %
+MAF 19.59 grams/s
+IAT 8.00 C
+Engine Speed 1497.50 RPM
+Throttle 19.22 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 50.99 %
+MAF 12.43 grams/s
+IAT 8.00 C
+Engine Speed 1507.00 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 45.50 %
+MAF 11.43 grams/s
+IAT 8.00 C
+Engine Speed 1523.25 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 38.04 %
+MAF 11.87 grams/s
+IAT 9.00 C
+Engine Speed 1545.25 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 38.04 %
+MAF 12.56 grams/s
+IAT 9.00 C
+Engine Speed 1556.25 RPM
+Throttle 20.00 %
+Coolant 85.00 C
+Speed 86.00 KPH
+Load 52.55 %
+MAF 14.93 grams/s
+IAT 9.00 C
+Engine Speed 1582.00 RPM
+Throttle 19.22 %
+Coolant 85.00 C
+Speed 86.00 KPH
+Load 49.81 %
+MAF 12.78 grams/s
+IAT 9.00 C
+Engine Speed 1589.75 RPM
+Throttle 18.83 %
+Coolant 85.00 C
+Speed 86.00 KPH
+Load 40.00 %
+MAF 10.56 grams/s
+IAT 9.00 C
+Engine Speed 1589.00 RPM
+Throttle 19.22 %
+Coolant 85.00 C
+Speed 88.00 KPH
+Load 39.61 %
+MAF 12.92 grams/s
+IAT 9.00 C
+Engine Speed 1596.00 RPM
+Throttle 21.18 %
+Coolant 84.00 C
+Speed 87.00 KPH
+Load 47.85 %
+MAF 17.98 grams/s
+IAT 9.00 C
+Engine Speed 1603.75 RPM
+Throttle 20.00 %
+Coolant 84.00 C
+Speed 89.00 KPH
+Load 54.91 %
+MAF 14.28 grams/s
+IAT 9.00 C
+Engine Speed 1615.50 RPM
+Throttle 20.00 %
+Coolant 84.00 C
+Speed 90.00 KPH
+Load 47.46 %
+MAF 18.14 grams/s
+IAT 9.00 C
+Engine Speed 1614.75 RPM
+Throttle 20.00 %
+Coolant 84.00 C
+Speed 89.00 KPH
+Load 52.16 %
+MAF 15.95 grams/s
+IAT 9.00 C
+Engine Speed 1607.75 RPM
+Throttle 20.39 %
+Coolant 84.00 C
+Speed 89.00 KPH
+Load 54.12 %
+MAF 16.37 grams/s
+IAT 9.00 C
+Engine Speed 1606.25 RPM
+Throttle 22.36 %
+Coolant 84.00 C
+Speed 88.00 KPH
+Load 66.67 %
+MAF 19.67 grams/s
+IAT 9.00 C
+Engine Speed 1605.25 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 89.00 KPH
+Load 64.32 %
+MAF 19.85 grams/s
+IAT 8.00 C
+Engine Speed 1605.25 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 89.00 KPH
+Load 64.71 %
+MAF 20.59 grams/s
+IAT 8.00 C
+Engine Speed 1606.25 RPM
+Throttle 30.98 %
+Coolant 83.00 C
+Speed 88.00 KPH
+Load 93.74 %
+MAF 41.87 grams/s
+IAT 8.00 C
+Engine Speed 2394.50 RPM
+Throttle 29.41 %
+Coolant 83.00 C
+Speed 90.00 KPH
+Load 92.56 %
+MAF 59.76 grams/s
+IAT 8.00 C
+Engine Speed 2055.25 RPM
+Throttle 30.20 %
+Coolant 83.00 C
+Speed 90.00 KPH
+Load 85.89 %
+MAF 49.29 grams/s
+IAT 7.00 C
+Engine Speed 2228.00 RPM
+Throttle 35.30 %
+Coolant 83.00 C
+Speed 92.00 KPH
+Load 83.15 %
+MAF 50.06 grams/s
+IAT 7.00 C
+Engine Speed 2536.50 RPM
+Throttle 32.16 %
+Coolant 83.00 C
+Speed 92.00 KPH
+Load 87.07 %
+MAF 60.29 grams/s
+IAT 6.00 C
+Engine Speed 2562.50 RPM
+Throttle 28.24 %
+Coolant 83.00 C
+Speed 96.00 KPH
+Load 75.30 %
+MAF 48.31 grams/s
+IAT 6.00 C
+Engine Speed 2200.00 RPM
+Throttle 25.10 %
+Coolant 83.00 C
+Speed 96.00 KPH
+Load 75.69 %
+MAF 39.92 grams/s
+IAT 6.00 C
+Engine Speed 1786.50 RPM
+Throttle 23.14 %
+Coolant 83.00 C
+Speed 98.00 KPH
+Load 68.64 %
+MAF 18.95 grams/s
+IAT 6.00 C
+Engine Speed 1732.75 RPM
+Throttle 19.22 %
+Coolant 83.00 C
+Speed 96.00 KPH
+Load 45.10 %
+MAF 15.57 grams/s
+IAT 6.00 C
+Engine Speed 1716.25 RPM
+Throttle 19.22 %
+Coolant 83.00 C
+Speed 95.00 KPH
+Load 41.97 %
+MAF 12.93 grams/s
+IAT 7.00 C
+Engine Speed 1689.00 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 95.00 KPH
+Load 44.32 %
+MAF 16.87 grams/s
+IAT 7.00 C
+Engine Speed 1693.75 RPM
+Throttle 27.85 %
+Coolant 84.00 C
+Speed 93.00 KPH
+Load 92.95 %
+MAF 41.68 grams/s
+IAT 7.00 C
+Engine Speed 3657.75 RPM
+Throttle 70.20 %
+Coolant 84.00 C
+Speed 93.00 KPH
+Load 96.87 %
+MAF 92.39 grams/s
+IAT 6.00 C
+Engine Speed 3807.00 RPM
+Throttle 63.93 %
+Coolant 83.00 C
+Speed 95.00 KPH
+Load 97.66 %
+MAF 113.64 grams/s
+IAT 5.00 C
+Engine Speed 3825.75 RPM
+Throttle 60.79 %
+Coolant 83.00 C
+Speed 103.00 KPH
+Load 96.48 %
+MAF 119.20 grams/s
+IAT 5.00 C
+Engine Speed 3000.00 RPM
+Throttle 16.86 %
+Coolant 83.00 C
+Speed 105.00 KPH
+Load 19.61 %
+MAF 8.10 grams/s
+IAT 5.00 C
+Engine Speed 2271.00 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 103.00 KPH
+Load 20.39 %
+MAF 10.21 grams/s
+IAT 6.00 C
+Engine Speed 2217.00 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 101.00 KPH
+Load 23.14 %
+MAF 4.96 grams/s
+IAT 6.00 C
+Engine Speed 2453.75 RPM
+Throttle 22.75 %
+Coolant 82.00 C
+Speed 99.00 KPH
+Load 44.32 %
+MAF 26.17 grams/s
+IAT 6.00 C
+Engine Speed 2455.25 RPM
+Throttle 18.83 %
+Coolant 82.00 C
+Speed 97.00 KPH
+Load 41.18 %
+MAF 19.25 grams/s
+IAT 6.00 C
+Engine Speed 2221.00 RPM
+Throttle 16.86 %
+Coolant 82.00 C
+Speed 97.00 KPH
+Load 21.96 %
+MAF 5.76 grams/s
+IAT 7.00 C
+Engine Speed 1685.75 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 95.00 KPH
+Load 22.36 %
+MAF 4.21 grams/s
+IAT 8.00 C
+Engine Speed 1719.50 RPM
+Throttle 19.22 %
+Coolant 82.00 C
+Speed 94.00 KPH
+Load 40.00 %
+MAF 14.73 grams/s
+IAT 8.00 C
+Engine Speed 1651.50 RPM
+Throttle 18.83 %
+Coolant 82.00 C
+Speed 92.00 KPH
+Load 40.79 %
+MAF 23.98 grams/s
+IAT 8.00 C
+Engine Speed 1642.00 RPM
+Throttle 20.79 %
+Coolant 82.00 C
+Speed 91.00 KPH
+Load 58.44 %
+MAF 18.95 grams/s
+IAT 7.00 C
+Engine Speed 1639.00 RPM
+Throttle 21.18 %
+Coolant 82.00 C
+Speed 91.00 KPH
+Load 61.58 %
+MAF 18.95 grams/s
+IAT 7.00 C
+Engine Speed 1635.00 RPM
+Throttle 21.96 %
+Coolant 82.00 C
+Speed 90.00 KPH
+Load 55.69 %
+MAF 15.18 grams/s
+IAT 7.00 C
+Engine Speed 1635.00 RPM
+Throttle 20.39 %
+Coolant 82.00 C
+Speed 92.00 KPH
+Load 55.30 %
+MAF 9.28 grams/s
+IAT 7.00 C
+Engine Speed 1611.50 RPM
+Throttle 20.79 %
+Coolant 82.00 C
+Speed 90.00 KPH
+Load 33.34 %
+MAF 12.84 grams/s
+IAT 7.00 C
+Engine Speed 1609.25 RPM
+Throttle 19.61 %
+Coolant 82.00 C
+Speed 90.00 KPH
+Load 50.59 %
+MAF 10.26 grams/s
+IAT 7.00 C
+Engine Speed 1589.00 RPM
+Throttle 17.26 %
+Coolant 82.00 C
+Speed 89.00 KPH
+Load 33.73 %
+MAF 7.06 grams/s
+IAT 7.00 C
+Engine Speed 1572.50 RPM
+Throttle 16.86 %
+Coolant 82.00 C
+Speed 87.00 KPH
+Load 26.67 %
+MAF 5.93 grams/s
+IAT 8.00 C
+Engine Speed 1549.00 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 87.00 KPH
+Load 27.85 %
+MAF 14.26 grams/s
+IAT 8.00 C
+Engine Speed 1546.75 RPM
+Throttle 18.43 %
+Coolant 83.00 C
+Speed 86.00 KPH
+Load 43.93 %
+MAF 13.09 grams/s
+IAT 8.00 C
+Engine Speed 1549.00 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 39.22 %
+MAF 9.17 grams/s
+IAT 8.00 C
+Engine Speed 1549.00 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 47.06 %
+MAF 11.84 grams/s
+IAT 8.00 C
+Engine Speed 1548.25 RPM
+Throttle 16.08 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 28.24 %
+MAF 3.03 grams/s
+IAT 8.00 C
+Engine Speed 1513.25 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 21.18 %
+MAF 3.76 grams/s
+IAT 8.00 C
+Engine Speed 1492.00 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 18.83 %
+MAF 2.78 grams/s
+IAT 9.00 C
+Engine Speed 1502.25 RPM
+Throttle 16.86 %
+Coolant 83.00 C
+Speed 83.00 KPH
+Load 27.45 %
+MAF 8.00 grams/s
+IAT 9.00 C
+Engine Speed 1491.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 83.00 KPH
+Load 48.24 %
+MAF 14.45 grams/s
+IAT 8.00 C
+Engine Speed 1487.50 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 82.00 KPH
+Load 59.22 %
+MAF 15.26 grams/s
+IAT 8.00 C
+Engine Speed 1488.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 82.00 KPH
+Load 61.58 %
+MAF 17.25 grams/s
+IAT 8.00 C
+Engine Speed 1490.50 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 81.00 KPH
+Load 61.18 %
+MAF 15.40 grams/s
+IAT 7.00 C
+Engine Speed 1497.50 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 83.00 KPH
+Load 73.34 %
+MAF 27.85 grams/s
+IAT 7.00 C
+Engine Speed 1502.25 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 83.00 KPH
+Load 60.79 %
+MAF 15.93 grams/s
+IAT 7.00 C
+Engine Speed 1515.50 RPM
+Throttle 23.92 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 60.79 %
+MAF 19.25 grams/s
+IAT 7.00 C
+Engine Speed 1519.50 RPM
+Throttle 23.14 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 74.13 %
+MAF 23.09 grams/s
+IAT 6.00 C
+Engine Speed 1523.25 RPM
+Throttle 22.75 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 70.99 %
+MAF 20.29 grams/s
+IAT 6.00 C
+Engine Speed 1528.00 RPM
+Throttle 23.14 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 72.95 %
+MAF 21.81 grams/s
+IAT 6.00 C
+Engine Speed 1533.50 RPM
+Throttle 22.75 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 72.95 %
+MAF 21.32 grams/s
+IAT 6.00 C
+Engine Speed 1533.50 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 86.00 KPH
+Load 72.56 %
+MAF 21.65 grams/s
+IAT 6.00 C
+Engine Speed 1539.75 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 86.00 KPH
+Load 62.36 %
+MAF 23.20 grams/s
+IAT 6.00 C
+Engine Speed 1539.75 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 69.42 %
+MAF 22.79 grams/s
+IAT 6.00 C
+Engine Speed 1540.50 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 85.00 KPH
+Load 58.05 %
+MAF 16.48 grams/s
+IAT 6.00 C
+Engine Speed 1528.75 RPM
+Throttle 22.36 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 63.14 %
+MAF 20.03 grams/s
+IAT 6.00 C
+Engine Speed 1521.00 RPM
+Throttle 23.53 %
+Coolant 83.00 C
+Speed 86.00 KPH
+Load 74.52 %
+MAF 21.53 grams/s
+IAT 6.00 C
+Engine Speed 1513.25 RPM
+Throttle 23.14 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 73.34 %
+MAF 21.50 grams/s
+IAT 6.00 C
+Engine Speed 1502.25 RPM
+Throttle 20.79 %
+Coolant 83.00 C
+Speed 84.00 KPH
+Load 63.93 %
+MAF 15.93 grams/s
+IAT 6.00 C
+Engine Speed 1483.50 RPM
+Throttle 20.00 %
+Coolant 84.00 C
+Speed 83.00 KPH
+Load 58.05 %
+MAF 14.60 grams/s
+IAT 6.00 C
+Engine Speed 1478.75 RPM
+Throttle 23.14 %
+Coolant 84.00 C
+Speed 82.00 KPH
+Load 73.34 %
+MAF 21.25 grams/s
+IAT 6.00 C
+Engine Speed 1472.50 RPM
+Throttle 24.71 %
+Coolant 84.00 C
+Speed 82.00 KPH
+Load 78.83 %
+MAF 20.59 grams/s
+IAT 6.00 C
+Engine Speed 1467.00 RPM
+Throttle 23.53 %
+Coolant 84.00 C
+Speed 81.00 KPH
+Load 73.34 %
+MAF 26.59 grams/s
+IAT 6.00 C
+Engine Speed 1471.00 RPM
+Throttle 26.67 %
+Coolant 84.00 C
+Speed 81.00 KPH
+Load 86.68 %
+MAF 41.54 grams/s
+IAT 6.00 C
+Engine Speed 1946.75 RPM
+Throttle 24.71 %
+Coolant 85.00 C
+Speed 83.00 KPH
+Load 76.87 %
+MAF 37.15 grams/s
+IAT 6.00 C
+Engine Speed 1844.50 RPM
+Throttle 23.92 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 71.77 %
+MAF 27.71 grams/s
+IAT 6.00 C
+Engine Speed 1513.25 RPM
+Throttle 23.53 %
+Coolant 85.00 C
+Speed 83.00 KPH
+Load 73.34 %
+MAF 22.84 grams/s
+IAT 5.00 C
+Engine Speed 1519.50 RPM
+Throttle 22.36 %
+Coolant 84.00 C
+Speed 83.00 KPH
+Load 70.99 %
+MAF 22.76 grams/s
+IAT 5.00 C
+Engine Speed 1528.75 RPM
+Throttle 21.18 %
+Coolant 85.00 C
+Speed 85.00 KPH
+Load 64.32 %
+MAF 17.21 grams/s
+IAT 6.00 C
+Engine Speed 1536.50 RPM
+Throttle 19.61 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 51.38 %
+MAF 14.95 grams/s
+IAT 6.00 C
+Engine Speed 1540.50 RPM
+Throttle 20.39 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 55.69 %
+MAF 15.60 grams/s
+IAT 6.00 C
+Engine Speed 1543.75 RPM
+Throttle 19.22 %
+Coolant 85.00 C
+Speed 85.00 KPH
+Load 58.44 %
+MAF 16.12 grams/s
+IAT 6.00 C
+Engine Speed 1544.50 RPM
+Throttle 20.39 %
+Coolant 85.00 C
+Speed 85.00 KPH
+Load 56.48 %
+MAF 15.51 grams/s
+IAT 6.00 C
+Engine Speed 1552.25 RPM
+Throttle 21.18 %
+Coolant 85.00 C
+Speed 87.00 KPH
+Load 59.22 %
+MAF 17.09 grams/s
+IAT 6.00 C
+Engine Speed 1553.00 RPM
+Throttle 20.79 %
+Coolant 85.00 C
+Speed 86.00 KPH
+Load 60.79 %
+MAF 17.43 grams/s
+IAT 6.00 C
+Engine Speed 1548.25 RPM
+Throttle 20.79 %
+Coolant 85.00 C
+Speed 85.00 KPH
+Load 59.61 %
+MAF 17.65 grams/s
+IAT 6.00 C
+Engine Speed 1540.50 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 85.00 KPH
+Load 47.85 %
+MAF 16.87 grams/s
+IAT 6.00 C
+Engine Speed 1525.00 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 42.75 %
+MAF 10.23 grams/s
+IAT 6.00 C
+Engine Speed 1489.00 RPM
+Throttle 20.39 %
+Coolant 85.00 C
+Speed 84.00 KPH
+Load 52.16 %
+MAF 12.04 grams/s
+IAT 6.00 C
+Engine Speed 1479.50 RPM
+Throttle 24.32 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 79.22 %
+MAF 24.65 grams/s
+IAT 6.00 C
+Engine Speed 1475.00 RPM
+Throttle 23.14 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 72.16 %
+MAF 22.73 grams/s
+IAT 6.00 C
+Engine Speed 1475.75 RPM
+Throttle 23.92 %
+Coolant 85.00 C
+Speed 83.00 KPH
+Load 77.66 %
+MAF 24.54 grams/s
+IAT 6.00 C
+Engine Speed 1465.50 RPM
+Throttle 24.32 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 78.05 %
+MAF 25.00 grams/s
+IAT 6.00 C
+Engine Speed 1473.25 RPM
+Throttle 23.53 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 75.30 %
+MAF 22.90 grams/s
+IAT 6.00 C
+Engine Speed 1471.00 RPM
+Throttle 22.75 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 71.38 %
+MAF 21.56 grams/s
+IAT 5.00 C
+Engine Speed 1467.75 RPM
+Throttle 23.14 %
+Coolant 85.00 C
+Speed 83.00 KPH
+Load 76.48 %
+MAF 22.14 grams/s
+IAT 5.00 C
+Engine Speed 1473.25 RPM
+Throttle 25.49 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 80.79 %
+MAF 28.93 grams/s
+IAT 5.00 C
+Engine Speed 1823.25 RPM
+Throttle 22.36 %
+Coolant 85.00 C
+Speed 83.00 KPH
+Load 71.38 %
+MAF 26.62 grams/s
+IAT 5.00 C
+Engine Speed 1500.00 RPM
+Throttle 21.18 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 65.50 %
+MAF 18.92 grams/s
+IAT 5.00 C
+Engine Speed 1491.25 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 62.36 %
+MAF 14.85 grams/s
+IAT 5.00 C
+Engine Speed 1479.50 RPM
+Throttle 17.26 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 34.51 %
+MAF 8.21 grams/s
+IAT 6.00 C
+Engine Speed 1455.25 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 82.00 KPH
+Load 26.67 %
+MAF 7.57 grams/s
+IAT 6.00 C
+Engine Speed 1442.75 RPM
+Throttle 19.22 %
+Coolant 85.00 C
+Speed 80.00 KPH
+Load 41.97 %
+MAF 11.90 grams/s
+IAT 6.00 C
+Engine Speed 1441.25 RPM
+Throttle 18.04 %
+Coolant 85.00 C
+Speed 79.00 KPH
+Load 40.00 %
+MAF 11.15 grams/s
+IAT 6.00 C
+Engine Speed 1441.25 RPM
+Throttle 19.22 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 50.99 %
+MAF 13.15 grams/s
+IAT 6.00 C
+Engine Speed 1447.50 RPM
+Throttle 17.65 %
+Coolant 85.00 C
+Speed 80.00 KPH
+Load 38.83 %
+MAF 7.71 grams/s
+IAT 6.00 C
+Engine Speed 1442.75 RPM
+Throttle 16.47 %
+Coolant 85.00 C
+Speed 79.00 KPH
+Load 31.38 %
+MAF 6.57 grams/s
+IAT 6.00 C
+Engine Speed 1444.50 RPM
+Throttle 16.08 %
+Coolant 85.00 C
+Speed 81.00 KPH
+Load 22.75 %
+MAF 5.56 grams/s
+IAT 7.00 C
+Engine Speed 1434.25 RPM
+Throttle 19.61 %
+Coolant 85.00 C
+Speed 79.00 KPH
+Load 40.79 %
+MAF 11.37 grams/s
+IAT 7.00 C
+Engine Speed 1448.25 RPM
+Throttle 18.43 %
+Coolant 84.00 C
+Speed 79.00 KPH
+Load 39.61 %
+MAF 3.15 grams/s
+IAT 6.00 C
+Engine Speed 1426.50 RPM
+Throttle 15.69 %
+Coolant 84.00 C
+Speed 80.00 KPH
+Load 21.57 %
+MAF 3.56 grams/s
+IAT 7.00 C
+Engine Speed 1406.25 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 79.00 KPH
+Load 19.61 %
+MAF 2.75 grams/s
+IAT 7.00 C
+Engine Speed 1343.75 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 78.00 KPH
+Load 19.61 %
+MAF 2.75 grams/s
+IAT 8.00 C
+Engine Speed 1300.00 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 77.00 KPH
+Load 20.00 %
+MAF 2.70 grams/s
+IAT 8.00 C
+Engine Speed 1234.25 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 73.00 KPH
+Load 20.39 %
+MAF 2.75 grams/s
+IAT 8.00 C
+Engine Speed 1073.25 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 69.00 KPH
+Load 21.18 %
+MAF 2.75 grams/s
+IAT 8.00 C
+Engine Speed 985.75 RPM
+Throttle 15.30 %
+Coolant 83.00 C
+Speed 65.00 KPH
+Load 22.75 %
+MAF 2.73 grams/s
+IAT 8.00 C
+Engine Speed 759.25 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 55.00 KPH
+Load 24.32 %
+MAF 2.75 grams/s
+IAT 8.00 C
+Engine Speed 848.25 RPM
+Throttle 16.47 %
+Coolant 83.00 C
+Speed 48.00 KPH
+Load 35.30 %
+MAF 4.20 grams/s
+IAT 8.00 C
+Engine Speed 794.50 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 36.00 KPH
+Load 30.20 %
+MAF 4.42 grams/s
+IAT 8.00 C
+Engine Speed 818.75 RPM
+Throttle 16.08 %
+Coolant 83.00 C
+Speed 32.00 KPH
+Load 32.94 %
+MAF 3.73 grams/s
+IAT 8.00 C
+Engine Speed 1739.00 RPM
+Throttle 22.75 %
+Coolant 83.00 C
+Speed 26.00 KPH
+Load 65.50 %
+MAF 22.14 grams/s
+IAT 8.00 C
+Engine Speed 1457.75 RPM
+Throttle 17.26 %
+Coolant 83.00 C
+Speed 24.00 KPH
+Load 44.71 %
+MAF 18.92 grams/s
+IAT 7.00 C
+Engine Speed 1016.25 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 26.00 KPH
+Load 29.81 %
+MAF 3.57 grams/s
+IAT 7.00 C
+Engine Speed 899.00 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 25.00 KPH
+Load 27.85 %
+MAF 3.57 grams/s
+IAT 8.00 C
+Engine Speed 876.50 RPM
+Throttle 15.69 %
+Coolant 83.00 C
+Speed 25.00 KPH
+Load 27.85 %
+MAF 3.39 grams/s
+IAT 8.00 C
+Engine Speed 865.50 RPM
+Throttle 16.47 %
+Coolant 83.00 C
+Speed 24.00 KPH
+Load 28.24 %
+MAF 3.40 grams/s
+IAT 8.00 C
+Engine Speed 1004.50 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 24.00 KPH
+Load 47.85 %
+MAF 11.35 grams/s
+IAT 8.00 C
+Engine Speed 1282.75 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 24.00 KPH
+Load 50.59 %
+MAF 11.89 grams/s
+IAT 7.00 C
+Engine Speed 1318.75 RPM
+Throttle 19.22 %
+Coolant 83.00 C
+Speed 24.00 KPH
+Load 52.55 %
+MAF 14.46 grams/s
+IAT 7.00 C
+Engine Speed 1723.25 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 26.00 KPH
+Load 64.32 %
+MAF 21.78 grams/s
+IAT 6.00 C
+Engine Speed 2003.00 RPM
+Throttle 27.45 %
+Coolant 83.00 C
+Speed 25.00 KPH
+Load 82.75 %
+MAF 31.48 grams/s
+IAT 6.00 C
+Engine Speed 2142.00 RPM
+Throttle 26.67 %
+Coolant 83.00 C
+Speed 32.00 KPH
+Load 76.87 %
+MAF 34.92 grams/s
+IAT 6.00 C
+Engine Speed 1666.25 RPM
+Throttle 17.65 %
+Coolant 82.00 C
+Speed 32.00 KPH
+Load 70.60 %
+MAF 22.21 grams/s
+IAT 6.00 C
+Engine Speed 1346.00 RPM
+Throttle 16.86 %
+Coolant 82.00 C
+Speed 36.00 KPH
+Load 31.77 %
+MAF 7.31 grams/s
+IAT 6.00 C
+Engine Speed 1253.75 RPM
+Throttle 16.86 %
+Coolant 82.00 C
+Speed 35.00 KPH
+Load 55.30 %
+MAF 13.34 grams/s
+IAT 6.00 C
+Engine Speed 965.50 RPM
+Throttle 17.26 %
+Coolant 82.00 C
+Speed 35.00 KPH
+Load 40.00 %
+MAF 7.93 grams/s
+IAT 6.00 C
+Engine Speed 1132.00 RPM
+Throttle 16.86 %
+Coolant 83.00 C
+Speed 34.00 KPH
+Load 39.61 %
+MAF 7.87 grams/s
+IAT 6.00 C
+Engine Speed 1174.00 RPM
+Throttle 18.43 %
+Coolant 83.00 C
+Speed 36.00 KPH
+Load 46.67 %
+MAF 11.93 grams/s
+IAT 6.00 C
+Engine Speed 1544.50 RPM
+Throttle 20.00 %
+Coolant 83.00 C
+Speed 38.00 KPH
+Load 55.69 %
+MAF 15.90 grams/s
+IAT 6.00 C
+Engine Speed 1763.25 RPM
+Throttle 23.92 %
+Coolant 83.00 C
+Speed 38.00 KPH
+Load 70.99 %
+MAF 24.82 grams/s
+IAT 6.00 C
+Engine Speed 1476.50 RPM
+Throttle 23.14 %
+Coolant 83.00 C
+Speed 40.00 KPH
+Load 78.05 %
+MAF 22.06 grams/s
+IAT 6.00 C
+Engine Speed 1332.00 RPM
+Throttle 24.71 %
+Coolant 83.00 C
+Speed 44.00 KPH
+Load 80.79 %
+MAF 26.21 grams/s
+IAT 5.00 C
+Engine Speed 1390.50 RPM
+Throttle 23.53 %
+Coolant 83.00 C
+Speed 44.00 KPH
+Load 78.44 %
+MAF 29.48 grams/s
+IAT 5.00 C
+Engine Speed 1506.25 RPM
+Throttle 23.92 %
+Coolant 83.00 C
+Speed 50.00 KPH
+Load 81.58 %
+MAF 27.17 grams/s
+IAT 5.00 C
+Engine Speed 1566.25 RPM
+Throttle 23.14 %
+Coolant 83.00 C
+Speed 52.00 KPH
+Load 72.95 %
+MAF 22.43 grams/s
+IAT 5.00 C
+Engine Speed 1594.50 RPM
+Throttle 21.18 %
+Coolant 83.00 C
+Speed 56.00 KPH
+Load 63.14 %
+MAF 16.64 grams/s
+IAT 5.00 C
+Engine Speed 1568.75 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 58.00 KPH
+Load 45.10 %
+MAF 12.64 grams/s
+IAT 5.00 C
+Engine Speed 1579.50 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 60.00 KPH
+Load 49.02 %
+MAF 14.46 grams/s
+IAT 5.00 C
+Engine Speed 1582.75 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 60.00 KPH
+Load 43.53 %
+MAF 12.82 grams/s
+IAT 5.00 C
+Engine Speed 1741.25 RPM
+Throttle 21.57 %
+Coolant 83.00 C
+Speed 61.00 KPH
+Load 58.44 %
+MAF 16.76 grams/s
+IAT 5.00 C
+Engine Speed 2549.00 RPM
+Throttle 75.30 %
+Coolant 83.00 C
+Speed 64.00 KPH
+Load 83.93 %
+MAF 46.15 grams/s
+IAT 5.00 C
+Engine Speed 4075.75 RPM
+Throttle 53.73 %
+Coolant 83.00 C
+Speed 64.00 KPH
+Load 95.70 %
+MAF 130.76 grams/s
+IAT 3.00 C
+Engine Speed 3950.75 RPM
+Throttle 17.26 %
+Coolant 83.00 C
+Speed 71.00 KPH
+Load 32.16 %
+MAF 23.60 grams/s
+IAT 3.00 C
+Engine Speed 2808.50 RPM
+Throttle 16.86 %
+Coolant 83.00 C
+Speed 75.00 KPH
+Load 18.43 %
+MAF 5.81 grams/s
+IAT 4.00 C
+Engine Speed 2304.50 RPM
+Throttle 15.69 %
+Coolant 82.00 C
+Speed 74.00 KPH
+Load 17.26 %
+MAF 4.93 grams/s
+IAT 5.00 C
+Engine Speed 1509.25 RPM
+Throttle 15.30 %
+Coolant 82.00 C
+Speed 72.00 KPH
+Load 19.61 %
+MAF 4.35 grams/s
+IAT 5.00 C
+Engine Speed 1186.50 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 69.00 KPH
+Load 23.14 %
+MAF 5.21 grams/s
+IAT 6.00 C
+Engine Speed 1634.25 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 69.00 KPH
+Load 23.92 %
+MAF 5.28 grams/s
+IAT 6.00 C
+Engine Speed 1614.00 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 66.00 KPH
+Load 24.32 %
+MAF 5.15 grams/s
+IAT 6.00 C
+Engine Speed 1550.75 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 65.00 KPH
+Load 24.32 %
+MAF 5.26 grams/s
+IAT 6.00 C
+Engine Speed 1494.50 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 63.00 KPH
+Load 25.10 %
+MAF 5.18 grams/s
+IAT 6.00 C
+Engine Speed 1346.75 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 58.00 KPH
+Load 25.49 %
+MAF 5.15 grams/s
+IAT 6.00 C
+Engine Speed 1257.00 RPM
+Throttle 16.47 %
+Coolant 82.00 C
+Speed 56.00 KPH
+Load 27.45 %
+MAF 5.14 grams/s
+IAT 6.00 C
+Engine Speed 1106.25 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 49.00 KPH
+Load 28.24 %
+MAF 5.07 grams/s
+IAT 6.00 C
+Engine Speed 1012.50 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 44.00 KPH
+Load 31.38 %
+MAF 4.96 grams/s
+IAT 6.00 C
+Engine Speed 907.00 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 36.00 KPH
+Load 32.16 %
+MAF 4.46 grams/s
+IAT 6.00 C
+Engine Speed 793.75 RPM
+Throttle 16.08 %
+Coolant 82.00 C
+Speed 33.00 KPH
+Load 33.34 %
+MAF 4.26 grams/s
+IAT 6.00 C
+Engine Speed 1089.00 RPM
+Throttle 18.43 %
+Coolant 82.00 C
+Speed 28.00 KPH
+Load 44.32 %
+MAF 15.50 grams/s
+IAT 6.00 C
+Engine Speed 1471.75 RPM
+Throttle 20.39 %
+Coolant 82.00 C
+Speed 28.00 KPH
+Load 60.01 %
+MAF 17.09 grams/s
+IAT 6.00 C
+Engine Speed 1524.00 RPM
+Throttle 21.18 %
+Coolant 83.00 C
+Speed 28.00 KPH
+Load 60.79 %
+MAF 18.42 grams/s
+IAT 5.00 C
+Engine Speed 1452.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 31.00 KPH
+Load 60.79 %
+MAF 16.93 grams/s
+IAT 5.00 C
+Engine Speed 1410.75 RPM
+Throttle 20.00 %
+Coolant 82.00 C
+Speed 31.00 KPH
+Load 59.22 %
+MAF 15.54 grams/s
+IAT 5.00 C
+Engine Speed 1467.75 RPM
+Throttle 20.00 %
+Coolant 82.00 C
+Speed 33.00 KPH
+Load 59.22 %
+MAF 16.03 grams/s
+IAT 5.00 C
+Engine Speed 1425.75 RPM
+Throttle 19.61 %
+Coolant 82.00 C
+Speed 33.00 KPH
+Load 55.69 %
+MAF 15.43 grams/s
+IAT 5.00 C
+Engine Speed 1408.50 RPM
+Throttle 19.61 %
+Coolant 82.00 C
+Speed 35.00 KPH
+Load 55.30 %
+MAF 14.43 grams/s
+IAT 5.00 C
+Engine Speed 1418.75 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 35.00 KPH
+Load 56.48 %
+MAF 14.67 grams/s
+IAT 5.00 C
+Engine Speed 1403.75 RPM
+Throttle 19.61 %
+Coolant 83.00 C
+Speed 35.00 KPH
+Load 54.91 %
+MAF 14.39 grams/s
+IAT 5.00 C
+Engine Speed 1480.25 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 37.00 KPH
+Load 58.05 %
+MAF 15.60 grams/s
+IAT 5.00 C
+Engine Speed 1468.75 RPM
+Throttle 20.39 %
+Coolant 83.00 C
+Speed 39.00 KPH
+Load 60.01 %
+MAF 15.70 grams/s
+IAT 5.00 C
+Engine Speed 1312.50 RPM
+Throttle 20.00 %
+Coolant 83.00 C
+Speed 41.00 KPH
+Load 61.97 %
+MAF 15.06 grams/s
+IAT 5.00 C
+Engine Speed 1239.00 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 41.00 KPH
+Load 55.30 %
+MAF 11.15 grams/s
+IAT 5.00 C
+Engine Speed 1165.50 RPM
+Throttle 18.83 %
+Coolant 83.00 C
+Speed 43.00 KPH
+Load 53.73 %
+MAF 11.45 grams/s
+IAT 5.00 C
+Engine Speed 1167.75 RPM
+Throttle 18.43 %
+Coolant 83.00 C
+Speed 43.00 KPH
+Load 49.42 %
+MAF 10.26 grams/s
+IAT 5.00 C
+Engine Speed 1225.00 RPM
+Throttle 19.22 %
+Coolant 83.00 C
+Speed 43.00 KPH
+Load 50.59 %
+MAF 11.76 grams/s
+IAT 5.00 C
+Engine Speed 1248.25 RPM
+Throttle 18.43 %
+Coolant 83.00 C
+Speed 45.00 KPH
+Load 48.24 %
+MAF 10.92 grams/s
+IAT 5.00 C
+Engine Speed 1216.25 RPM
+Throttle 17.26 %
+Coolant 83.00 C
+Speed 45.00 KPH
+Load 39.61 %
+MAF 6.68 grams/s
+IAT 6.00 C
+Engine Speed 1207.75 RPM
+Throttle 18.04 %
+Coolant 84.00 C
+Speed 45.00 KPH
+Load 35.69 %
+MAF 7.12 grams/s
+IAT 6.00 C
+Engine Speed 1195.25 RPM
+Throttle 17.65 %
+Coolant 84.00 C
+Speed 45.00 KPH
+Load 40.40 %
+MAF 7.62 grams/s
+IAT 6.00 C
+Engine Speed 1193.75 RPM
+Throttle 18.04 %
+Coolant 84.00 C
+Speed 45.00 KPH
+Load 38.83 %
+MAF 8.84 grams/s
+IAT 6.00 C
+Engine Speed 1142.75 RPM
+Throttle 17.65 %
+Coolant 84.00 C
+Speed 45.00 KPH
+Load 42.75 %
+MAF 7.81 grams/s
+IAT 6.00 C
+Engine Speed 1166.25 RPM
+Throttle 17.26 %
+Coolant 84.00 C
+Speed 45.00 KPH
+Load 40.00 %
+MAF 7.56 grams/s
+IAT 6.00 C
+Engine Speed 1143.75 RPM
+Throttle 15.69 %
+Coolant 84.00 C
+Speed 44.00 KPH
+Load 29.02 %
+MAF 5.29 grams/s
+IAT 6.00 C
+Engine Speed 1072.50 RPM
+Throttle 16.86 %
+Coolant 84.00 C
+Speed 43.00 KPH
+Load 30.98 %
+MAF 4.85 grams/s
+IAT 6.00 C
+Engine Speed 1174.00 RPM
+Throttle 17.26 %
+Coolant 84.00 C
+Speed 42.00 KPH
+Load 41.57 %
+MAF 9.53 grams/s
+IAT 6.00 C
+Engine Speed 1091.25 RPM
+Throttle 16.08 %
+Coolant 84.00 C
+Speed 42.00 KPH
+Load 29.41 %
+MAF 2.95 grams/s
+IAT 6.00 C
+Engine Speed 1017.75 RPM
+Throttle 16.08 %
+Coolant 84.00 C
+Speed 41.00 KPH
+Load 27.45 %
+MAF 4.42 grams/s
+IAT 6.00 C
+Engine Speed 976.50 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 41.00 KPH
+Load 25.49 %
+MAF 2.67 grams/s
+IAT 6.00 C
+Engine Speed 949.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 41.00 KPH
+Load 23.92 %
+MAF 2.75 grams/s
+IAT 6.00 C
+Engine Speed 917.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 39.00 KPH
+Load 24.32 %
+MAF 2.78 grams/s
+IAT 6.00 C
+Engine Speed 839.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 37.00 KPH
+Load 24.71 %
+MAF 2.75 grams/s
+IAT 7.00 C
+Engine Speed 795.25 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 35.00 KPH
+Load 28.63 %
+MAF 2.75 grams/s
+IAT 7.00 C
+Engine Speed 829.50 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 32.00 KPH
+Load 30.20 %
+MAF 3.78 grams/s
+IAT 7.00 C
+Engine Speed 890.50 RPM
+Throttle 16.08 %
+Coolant 85.00 C
+Speed 31.00 KPH
+Load 32.55 %
+MAF 5.20 grams/s
+IAT 7.00 C
+Engine Speed 855.25 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 28.00 KPH
+Load 28.63 %
+MAF 3.31 grams/s
+IAT 7.00 C
+Engine Speed 596.00 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 21.00 KPH
+Load 30.59 %
+MAF 3.29 grams/s
+IAT 7.00 C
+Engine Speed 616.25 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 18.00 KPH
+Load 34.12 %
+MAF 3.31 grams/s
+IAT 7.00 C
+Engine Speed 808.50 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 9.00 KPH
+Load 35.30 %
+MAF 3.37 grams/s
+IAT 7.00 C
+Engine Speed 1187.50 RPM
+Throttle 18.43 %
+Coolant 85.00 C
+Speed 6.00 KPH
+Load 47.06 %
+MAF 9.82 grams/s
+IAT 7.00 C
+Engine Speed 1517.75 RPM
+Throttle 18.04 %
+Coolant 85.00 C
+Speed 12.00 KPH
+Load 41.57 %
+MAF 9.43 grams/s
+IAT 6.00 C
+Engine Speed 1432.00 RPM
+Throttle 22.36 %
+Coolant 85.00 C
+Speed 12.00 KPH
+Load 62.75 %
+MAF 12.87 grams/s
+IAT 6.00 C
+Engine Speed 1653.00 RPM
+Throttle 20.79 %
+Coolant 85.00 C
+Speed 18.00 KPH
+Load 60.01 %
+MAF 15.73 grams/s
+IAT 6.00 C
+Engine Speed 1339.00 RPM
+Throttle 16.08 %
+Coolant 84.00 C
+Speed 22.00 KPH
+Load 46.28 %
+MAF 8.84 grams/s
+IAT 6.00 C
+Engine Speed 1015.50 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 24.00 KPH
+Load 27.06 %
+MAF 3.50 grams/s
+IAT 6.00 C
+Engine Speed 897.50 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 24.00 KPH
+Load 27.06 %
+MAF 3.23 grams/s
+IAT 6.00 C
+Engine Speed 899.00 RPM
+Throttle 15.69 %
+Coolant 84.00 C
+Speed 26.00 KPH
+Load 26.67 %
+MAF 3.35 grams/s
+IAT 6.00 C
+Engine Speed 933.50 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 26.00 KPH
+Load 26.28 %
+MAF 3.14 grams/s
+IAT 6.00 C
+Engine Speed 957.75 RPM
+Throttle 15.69 %
+Coolant 84.00 C
+Speed 26.00 KPH
+Load 26.28 %
+MAF 3.32 grams/s
+IAT 6.00 C
+Engine Speed 930.25 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 27.00 KPH
+Load 25.89 %
+MAF 3.14 grams/s
+IAT 7.00 C
+Engine Speed 886.50 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 25.00 KPH
+Load 27.06 %
+MAF 3.40 grams/s
+IAT 7.00 C
+Engine Speed 849.00 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 23.00 KPH
+Load 27.06 %
+MAF 3.14 grams/s
+IAT 7.00 C
+Engine Speed 714.00 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 22.00 KPH
+Load 28.24 %
+MAF 3.12 grams/s
+IAT 7.00 C
+Engine Speed 653.00 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 19.00 KPH
+Load 30.98 %
+MAF 3.12 grams/s
+IAT 7.00 C
+Engine Speed 732.00 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 14.00 KPH
+Load 32.16 %
+MAF 3.09 grams/s
+IAT 7.00 C
+Engine Speed 857.00 RPM
+Throttle 15.69 %
+Coolant 84.00 C
+Speed 13.00 KPH
+Load 29.41 %
+MAF 3.57 grams/s
+IAT 7.00 C
+Engine Speed 754.50 RPM
+Throttle 15.69 %
+Coolant 84.00 C
+Speed 10.00 KPH
+Load 30.59 %
+MAF 3.57 grams/s
+IAT 7.00 C
+Engine Speed 685.00 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 8.00 KPH
+Load 30.98 %
+MAF 3.07 grams/s
+IAT 7.00 C
+Engine Speed 587.50 RPM
+Throttle 15.30 %
+Coolant 84.00 C
+Speed 6.00 KPH
+Load 32.55 %
+MAF 3.25 grams/s
+IAT 8.00 C
+Engine Speed 669.50 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 5.00 KPH
+Load 32.94 %
+MAF 3.29 grams/s
+IAT 8.00 C
+Engine Speed 668.75 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 6.00 KPH
+Load 32.55 %
+MAF 3.28 grams/s
+IAT 8.00 C
+Engine Speed 701.50 RPM
+Throttle 16.08 %
+Coolant 85.00 C
+Speed 6.00 KPH
+Load 34.51 %
+MAF 3.81 grams/s
+IAT 8.00 C
+Engine Speed 1255.25 RPM
+Throttle 17.26 %
+Coolant 85.00 C
+Speed 6.00 KPH
+Load 43.14 %
+MAF 5.32 grams/s
+IAT 7.00 C
+Engine Speed 854.50 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 8.00 KPH
+Load 29.81 %
+MAF 2.90 grams/s
+IAT 7.00 C
+Engine Speed 702.25 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 8.00 KPH
+Load 29.81 %
+MAF 3.28 grams/s
+IAT 7.00 C
+Engine Speed 743.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 7.00 KPH
+Load 30.59 %
+MAF 3.07 grams/s
+IAT 8.00 C
+Engine Speed 697.50 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 7.00 KPH
+Load 29.81 %
+MAF 3.01 grams/s
+IAT 8.00 C
+Engine Speed 638.25 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 6.00 KPH
+Load 31.38 %
+MAF 3.04 grams/s
+IAT 8.00 C
+Engine Speed 626.50 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 6.00 KPH
+Load 32.16 %
+MAF 3.03 grams/s
+IAT 8.00 C
+Engine Speed 620.25 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 5.00 KPH
+Load 32.55 %
+MAF 3.04 grams/s
+IAT 8.00 C
+Engine Speed 610.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 3.00 KPH
+Load 32.94 %
+MAF 3.04 grams/s
+IAT 8.00 C
+Engine Speed 616.25 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 3.00 KPH
+Load 32.55 %
+MAF 3.04 grams/s
+IAT 8.00 C
+Engine Speed 635.75 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 3.00 KPH
+Load 32.94 %
+MAF 3.32 grams/s
+IAT 8.00 C
+Engine Speed 650.00 RPM
+Throttle 15.69 %
+Coolant 85.00 C
+Speed 3.00 KPH
+Load 33.73 %
+MAF 3.35 grams/s
+IAT 8.00 C
+Engine Speed 617.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 2.96 grams/s
+IAT 8.00 C
+Engine Speed 614.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 32.94 %
+MAF 3.03 grams/s
+IAT 8.00 C
+Engine Speed 621.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.03 grams/s
+IAT 8.00 C
+Engine Speed 628.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 32.55 %
+MAF 3.01 grams/s
+IAT 8.00 C
+Engine Speed 635.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 3.01 grams/s
+IAT 8.00 C
+Engine Speed 639.00 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 3.01 grams/s
+IAT 8.00 C
+Engine Speed 625.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 31.77 %
+MAF 2.90 grams/s
+IAT 8.00 C
+Engine Speed 696.75 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 32.16 %
+MAF 2.96 grams/s
+IAT 8.00 C
+Engine Speed 759.25 RPM
+Throttle 15.30 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 27.85 %
+MAF 2.51 grams/s
+IAT 8.00 C
+Engine Speed 664.00 RPM
+Throttle 14.90 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 27.45 %
+MAF 2.50 grams/s
+IAT 8.00 C
+Engine Speed 652.25 RPM
+Throttle 14.90 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 28.24 %
+MAF 2.53 grams/s
+IAT 8.00 C
+Engine Speed 646.00 RPM
+Throttle 14.90 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 28.24 %
+MAF 2.50 grams/s
+IAT 8.00 C
+Engine Speed 654.50 RPM
+Throttle 14.90 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 28.24 %
+MAF 2.51 grams/s
+IAT 8.00 C
+Engine Speed 649.00 RPM
+Throttle 14.90 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 28.24 %
+MAF 2.48 grams/s
+IAT 8.00 C
+Engine Speed 644.50 RPM
+Throttle 14.90 %
+Coolant 85.00 C
+Speed 0.00 KPH
+Load 28.63 %
+MAF 2.50 grams/s
+IAT 8.00 C
+Engine Speed 650.75 RPM
