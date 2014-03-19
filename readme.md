@@ -79,6 +79,7 @@ What you (probably) need to do to get it working (assuming a windows installatio
         - the OBD2 has only beent tested on one vehicle so far with 11-bit identifiers
         - To create an OBD PID that does not yet exist see the relevant enums in the OBD2.h file.  
         - Thanks to collin80 for developing the original due_can.* libraries and ivanseidel for developoing the DUETimer libraries
+        - When in doubt, check your wiring and termination resistors ;)
 
 ### Hardware Information
 
