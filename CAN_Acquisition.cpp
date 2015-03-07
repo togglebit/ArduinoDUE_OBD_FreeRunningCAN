@@ -140,8 +140,8 @@ void cAcquireCAN::addMessage(cCANFrame *frame, ACQ_FRAME_TYPE type)
 
 		//we need to setup the masks for the ID's in the receive mailbox
 		//receive mailbox is mailbox #0
-		MID_mask |= frame->ID;
-		MAM_mask  = ~(MID_mask^frame->ID);
+        MAM_mask  = ~(MID_mask^frame->ID);
+        MID_mask |= frame->ID;
 
 		//program registers
 		C->mailbox_set_accept_mask(0, MAM_mask, false);
