@@ -30,7 +30,9 @@ cAcquireCAN::cAcquireCAN(ACQ_CAN_PORT _portNumber)
 	count        = 0;
 	_1mSCntr     = 0;
 	_10mSCntr    = 0;
+	_25mSCntr	 = 0;
 	_100mSCntr   = 0;
+	_500mSCntr	 = 0;
 	_1000mSCntr  = 0;
 	usTsliceMax  = 0;
 	usTslice     = 0;
@@ -140,12 +142,13 @@ void cAcquireCAN::addMessage(cCANFrame *frame, ACQ_FRAME_TYPE type)
 
 		//we need to setup the masks for the ID's in the receive mailbox
 		//receive mailbox is mailbox #0
-        MAM_mask  = ~(MID_mask^frame->ID);
-        MID_mask |= frame->ID;
+        MAM_mask  = ~(MID_mask|frame->ID);
+		
+	    MID_mask |= frame->ID;
 
 		//program registers
-		C->mailbox_set_accept_mask(0, MAM_mask, false);
-		C->mailbox_set_id(0, MID_mask, false);
+		C->mailbox_set_accept_mask(0, MAM_mask, frame->ext);
+		C->mailbox_set_id(0, MID_mask, frame->ext);
 	}
 
 }
@@ -211,8 +214,8 @@ void cAcquireCAN::TXmsg(cCANFrame *I)
 	if (validFrame)
 	{
 		//set CAN ID  for mailbox
-		C->mailbox_set_id(1, I->ID, false);
-
+		C->mailbox_set_id(1, I->ID, I->ext);
+		C->mailbox_set_datalen(1, I->dlc);
 		//load payloads	for this mailbox 
 		C->mailbox_set_datal(1,I->U.P.lowerPayload);
 		C->mailbox_set_datah(1, I->U.P.upperPayload);
@@ -222,6 +225,7 @@ void cAcquireCAN::TXmsg(cCANFrame *I)
 
 		//increment transmit counter
 		TxCtr += 1; 
+		I->isFresh = 0;
 	}
 }
 
@@ -267,6 +271,8 @@ void cAcquireCAN::RXmsg()
 					rxMsgs[i]->U.b[7] = newFrame.data[7];
 					//NOTE: re-write in future versions for U32 transfers
 
+					// indicate that the message is fresh; user code can set it as un-fresh to monitor updates
+					rxMsgs[i]->isFresh = 1;					
 					//increment receive counter
 					RxCtr += 1;
 				}
@@ -328,6 +334,13 @@ void cAcquireCAN::run(ACQ_MODE mode)
 		}
 
 		//transmit the "free-running" CAN messages
+		//200Hz
+		if ((_1mSCntr - _5mSCntr) >= 5)
+		{
+			runRates(_200Hz_Rate);
+			_5mSCntr = _1mSCntr;
+		}
+		
 		//100Hz
 		if ((_1mSCntr - _10mSCntr) >= 10)
 		{
@@ -335,6 +348,15 @@ void cAcquireCAN::run(ACQ_MODE mode)
 			_10mSCntr = _1mSCntr;
 		}
 
+		
+		//40Hz
+		if ((_1mSCntr - _25mSCntr) >= 25)
+		{
+			runRates(_40Hz_Rate);
+			_25mSCntr = _1mSCntr;
+		}
+		
+		
 		//10Hz
 		if ((_1mSCntr - _100mSCntr) >= 100)
 		{
@@ -349,6 +371,13 @@ void cAcquireCAN::run(ACQ_MODE mode)
 			_200mSCntr = _1mSCntr;
 		}
 
+		//5Hz
+		if ((_1mSCntr - _500mSCntr) >=  500)
+		{
+			runRates(_2Hz_Rate);
+			_500mSCntr = _1mSCntr;
+		}
+		
 		//1Hz
 		if (_1mSCntr >= 1000)
 		{

@@ -62,9 +62,12 @@ enum ACQ_BAUD_RATE
 enum ACQ_RATE_CAN
 {
 	_1Hz_Rate    	= 1000,
+	_2Hz_Rate    	= 500,
 	_5Hz_Rate    	= 200,
 	_10Hz_Rate   	= 100,
+	_40Hz_Rate		= 25,
 	_100Hz_Rate  	= 10,
+	_200Hz_Rate		= 5,
 	QUERY_MSG    	= 0xFFFF
 };
 
@@ -98,6 +101,16 @@ enum ACQ_MODE
 	TIMER_2mS
 };
 
+
+/**
+ * This enum allows the programmer to force use of an 11 bit (standard) or 29 bit (extended) identifier
+ * Plugs into due_can library's extended ID functionality
+ */
+enum EXT_FLAG
+{
+	EXTENDED = 1 ,
+	STANDARD = 0
+};
 
 /**
  * This sturct represents a full CAN frame. The ID, payload (message), transmission rate, and CAN ID index are represented.
@@ -142,6 +155,15 @@ public:
 	 * This is the periodic transmission rate for this message
 	 */
 	ACQ_RATE_CAN rate;
+	
+	//  A uint8 holds the DLC set for TX.  A conditional to reject frames with wrong DLC would have to be added to the RX code for this to have effect on RX behavior
+	UINT8 dlc;
+	
+	//  A boolean flag to denote an extended frame. 
+	EXT_FLAG ext;
+	
+	//  A boolean to denote "fresh" data on rx or transmitted vs untransmitted data in tx.  Used in application code, tx rs subroutines
+	bool isFresh;
 
 	/**
 	 * This is a function that is called by the acquisition scheduler when a receive message matching this CAN ID has been received.
@@ -257,7 +279,7 @@ private:
 	 /**
 	 * counters used to determine # of mSecs that have elapsed
 	 */
-	 UINT16 _1mSCntr, _10mSCntr, _100mSCntr, _200mSCntr, _1000mSCntr, _queryCntr;
+	 UINT16 _1mSCntr, _5mSCntr, _10mSCntr, _25mSCntr, _100mSCntr, _200mSCntr, _500mSCntr, _1000mSCntr, _queryCntr;
 
 	/**
 	 * diagnostic timing varibles used to track the execution time of the scheduler
