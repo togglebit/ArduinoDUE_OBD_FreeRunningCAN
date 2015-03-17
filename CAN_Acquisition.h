@@ -316,5 +316,14 @@ private:
 	 * 
 	 */
 	void RXmsg();
+
+    /**
+     * This method is used to build up the MAM mask needed for filtering of RX messages in hardware (see page 1211 of STM datasheet). 
+     * Each new message must be bitwise compared (NOR) with previous messages to compile a common bitmask.
+     * 
+     * @param ID     New ID being added to the RX queue
+     * @return MAM mask file per STM hardware requirements 
+     */
+     U32 buildMAM(U32 ID);
 };   
 #endif
