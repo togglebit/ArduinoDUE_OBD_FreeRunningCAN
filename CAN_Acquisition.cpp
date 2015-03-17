@@ -144,8 +144,8 @@ void cAcquireCAN::addMessage(cCANFrame *frame, ACQ_FRAME_TYPE type)
         MID_mask |= frame->ID;
 
         //program registers
-        C->mailbox_set_accept_mask(0, MAM_mask);
-        C->mailbox_set_id(0, MID_mask);
+        C->mailbox_set_accept_mask(0, MAM_mask,false);
+        C->mailbox_set_id(0, MID_mask,false);
     }
 
 }
