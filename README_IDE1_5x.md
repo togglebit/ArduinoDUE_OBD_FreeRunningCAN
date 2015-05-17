@@ -13,14 +13,13 @@ dan@togglebit.net
 
 ## Installation
 What you (probably) need to do to get it working (assuming a windows installation):
-        1. download Arduino IDE R 1.6.x
+        1. download Arduino IDE R 1.5.5 r2
         2. download all of the files from this repository
-        3. Create a new folder called "CAN" under a path  C:\Program Files (x86)\Arduino\libraries\ 
-        4. Drop all files( *.c,*.h and *.ino) into the new folder (C:\Program Files (x86)\Arduino\libraries\CAN) 
-        5. Go to Tools->Boards->Boards Manager and download the Adruino SAM (32-bit ARM cortex-M3) boards hardware support kit
-        6. Once installed, go to boards select the Arduino DUE from.  
-        7. Opening any of the examples ( *.ino) files will create a new folder. 
-        8. You will now be able to verify, upload etc.
+        3. With the exception of variant.h, drop the *.c and *.h files into C:\Program Files (x86)\Arduino\hardware\arduino\sam\cores\arduino 
+        4. Copy variant.h into C:\Program Files (x86)\Arduino\hardware\arduino\sam\variants\arduino_due_x
+        5. Create a new folder called "OBD2" in C:\Program Files (x86)\Arduino\libraries
+        6. Inside the OBD2 folder create a folder called "examples". Inside that folder create folders for each indivdual example with only that 
+           example file located inside the folder "OBD_Example_1" 
 
 ## Getting Started with Free Running CAN
 
