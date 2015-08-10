@@ -432,3 +432,57 @@ UINT32 cAcquireCAN::getRxCtr()
     return(RxCtr);
 }
 
+/**
+ * This method provides for writing the payload of the CAN frame. This is required for proper byte ordering in memory.
+ * 
+ * @param payload U32 representing the payload, in desired order (MSB-LSB)
+ */
+void cCANFrame::setUpperU32(U32 payload)
+{
+    
+    //swap byte ordering
+    U.b[0] = (payload >> 24) & 0xFF;
+    U.b[1] = (payload >> 16) & 0xFF;
+    U.b[2] = (payload >> 8)  & 0xFF;
+    U.b[3] = payload & 0xFF;
+}
+
+/**
+ * This method provides for writing the payload of the CAN frame. This is required for proper byte ordering in memory.
+ * 
+ * @param payload U32 representing the payload, in desired order (MSB-LSB)
+ */
+void cCANFrame::setLowerU32(U32 payload)
+{
+    //swap byte ordering
+    U.b[4] = (payload >> 24) & 0xFF;
+    U.b[5] = (payload >> 16) & 0xFF;
+    U.b[6] = (payload >> 8)  & 0xFF;
+    U.b[7] = payload & 0xFF;
+}
+
+/**
+ * This method provides for reading the payload of the CAN frame. This is required for proper byte ordering in memory.
+ * 
+ * @return U32 represeting payload (MSB-LSB)
+ */
+U32  cCANFrame::getUpperU32()
+{
+    return((U32)(U.b[0] << 24) | (U.b[1] << 16) | (U.b[2] << 8) | U.b[3]);   
+}
+
+
+/**
+ * This method provides for writing the payload of the CAN frame. This is required for proper byte ordering in memory.
+ * 
+ * @return U32 represeting payload (MSB-LSB)
+ */
+U32  cCANFrame::getLowerU32()
+{
+    return((U32)(U.b[4] << 24) | (U.b[5] << 16) | (U.b[6] << 8) | U.b[7] );   
+}
+
+
+
+
+
