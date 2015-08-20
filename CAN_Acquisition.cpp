@@ -143,9 +143,9 @@ void cAcquireCAN::addMessage(cCANFrame *frame, ACQ_FRAME_TYPE type)
         MAM_mask = buildMAM(frame->ID);
         MID_mask |= frame->ID;
 
-        //program registers
-        C->mailbox_set_accept_mask(0, MAM_mask,false);
-        C->mailbox_set_id(0, MID_mask,false);
+        //program registers, account for extended ID's
+        C->mailbox_set_accept_mask(0, MAM_mask,frame->ID > 0x7FF? true : false);
+        C->mailbox_set_id(0, MID_mask,frame->ID > 0x7FF? true : false);
     }
 
 }
@@ -234,8 +234,9 @@ void cAcquireCAN::TXmsg(cCANFrame *I)
     //if no abort, stuff the frame and payload 
     if (validFrame)
     {
-        //set CAN ID  for mailbox
-        C->mailbox_set_id(1, I->ID, false);
+        
+        //set CAN ID  for mailbox,check for extended ID
+        C->mailbox_set_id(1, I->ID, I->ID > 0x7FF ? true : false);
 
         //load payloads	for this mailbox 
         C->mailbox_set_datal(1,I->U.P.lowerPayload);
