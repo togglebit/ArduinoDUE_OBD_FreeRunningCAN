@@ -49,7 +49,8 @@ cOBDParameter:: cOBDParameter (char _name[STR_LNGTH],
 							   OBD_MODE_REQ _mode,
 							   float _slope,
 							   float _offset,
-							   cAcquireCAN *_portNum)
+							   cAcquireCAN *_portNum,
+                               bool _extended)
 {
 	UINT8 strSize,i;
 
@@ -98,11 +99,11 @@ cOBDParameter:: cOBDParameter (char _name[STR_LNGTH],
 	//
 	//NOTE: for transmisison requests now we are going to use the main broadcast message to speak to all ECU's 0x7DF
 	//
-	TXFrame.ID   	 = 0x7DF;
+	TXFrame.ID   	 = _extended ? 0x18DB33F1 : 0x7DF;
     TXFrame.U.b[0]   = 2;
     TXFrame.U.b[1]   = (UINT8)dataMode;
 	TXFrame.U.b[2]   = (UINT8)pid;
-	TXFrame.U.b[3]   = 0x55;
+	TXFrame.U.b[3]   = 0x55;                            
 	TXFrame.U.P.upperPayload = 0x55555555;
 
 	//add message to acquisition list in associated acquire class.
@@ -119,7 +120,7 @@ cOBDParameter:: cOBDParameter (char _name[STR_LNGTH],
 	//
 	//NOTE: for now we are going to assume the main ECU response 0x7E8
 	//
-	RXFrame.ID   	  = 0x7E8;
+	RXFrame.ID   	 = _extended ? 0x18DAF10E : 0x7E8;  
     RXFrame.U.b[0]   = (UINT8)size;
     RXFrame.U.b[1]   = (UINT8)dataMode;
 	RXFrame.U.b[2]   = (UINT8)pid;
@@ -237,9 +238,10 @@ bool cOBDRXFrame::CallbackRx(RX_CAN_FRAME *R)
 	{
 		//check contents of raw CAN frame to see if it matches this OBD parameter
 		//we already know that the ID matches, check the data mode (0x40 in most significant nibble is the ack response), check the PID
-		if ((R->data[1] == (0x40 | (0x0F & U.b[1]))) && (R->data[2] == U.b[2]))
+		if ((R->data.byte[1] == (0x40 | (0x0F & U.b[1]))) && (R->data.byte[2] == U.b[2]))
 		{
 			retVal = true;
+
 		}
 	}
 	return(retVal);

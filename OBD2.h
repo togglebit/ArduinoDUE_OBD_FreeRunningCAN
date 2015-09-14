@@ -45,7 +45,8 @@ enum OBD_PID
 	SPEED        = 0x0D,
 	ENGINE_IAT   = 0x0F,
 	ENGINE_MAF   = 0x10,
-	THROTTLE_POS = 0x11
+	THROTTLE_POS = 0x11,
+	FUEL_FLOW    = 0x5E
 };
 
 /**
@@ -116,6 +117,7 @@ public:
 	* @param _slope   -  this OBD class assumes a linear relationship between counts and units. This is the slope.
 	* @param _offset  -  this sensor class assumes a linear relationship between counts and units. This is the offset.
 	* @param _portNum -  physical CAN port to be used for this OBD parameter
+	* @param _extended-  indicate we are using OBD2 extended ID's
 	*/
 	cOBDParameter (char _name[STR_LNGTH],
 				   char _units[STR_LNGTH],
@@ -125,7 +127,8 @@ public:
 				   OBD_MODE_REQ _mode,
 				   float _slope,
 				   float _offset,
-				   cAcquireCAN *_portNum);
+				   cAcquireCAN *_portNum,
+                   bool _extended);
 	/**
 	 * Retreive OBD2 signal data in floating point engineering units. Note the floating point/EU conversion only occurs
 	 * when this method is called
