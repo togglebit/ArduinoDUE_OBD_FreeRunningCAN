@@ -90,7 +90,7 @@ void cAcquireCAN::initialize(ACQ_BAUD_RATE baud)
 	if (portNumber == CAN_PORT_1)
 	{
 		//set physical can1 port reference
-		if (CAN2.init(baud))
+		if (CAN2.init(baud*1000))
 		{
 			// Disable all CAN0 & CAN1 interrupts
 			CAN2.disable_interrupt(CAN_DISABLE_ALL_INTERRUPT_MASK);
