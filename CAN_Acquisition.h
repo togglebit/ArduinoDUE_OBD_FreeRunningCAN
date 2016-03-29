@@ -18,6 +18,16 @@
 #include "variant.h"
 #include <due_can.h>
 
+//typedefs for clarity
+typedef unsigned int       UINT16;
+typedef signed int         SINT16;
+typedef unsigned char      UINT8;
+typedef signed long        SINT32;
+typedef unsigned long      UINT32;
+typedef signed long long   SINT64;
+typedef unsigned long long UINT64;
+
+
 //defines current max numer of messages allowed in rx/tx arrays
 #define  MAX_NUM_TX_MSGS 20  
 #define  MAX_NUM_RX_MSGS 30  
