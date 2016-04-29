@@ -104,7 +104,8 @@ enum ACQ_FRAME_TYPE
  */
 enum ACQ_MODE
 {
-    POLLING,
+    POLLING_noTx,
+	POLLING,
     TIMER_2mS
 };
 
