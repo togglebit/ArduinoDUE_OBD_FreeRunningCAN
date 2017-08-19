@@ -53,10 +53,13 @@ cAcquireCAN::cAcquireCAN(ACQ_CAN_PORT _portNumber)
  */
 void cAcquireCAN::initialize(ACQ_BAUD_RATE baud)
 {
+    int ret;
 	if (portNumber == CAN_PORT_0)
 	{
-		//setup port0 hardware
-		if (CAN.init(baud*1000))
+        if (baud != 0) ret = CAN.init(baud * 1000);
+        else ret = CAN.beginAutoSpeed(); //try to automatically determine the baud rate
+		//setup port0 hardware 
+		if (ret)
 		{
 			// Disable all CAN0 & CAN1 interrupts
 			CAN.disable_interrupt(CAN_DISABLE_ALL_INTERRUPT_MASK);
@@ -268,7 +271,7 @@ void cAcquireCAN::RXmsg()
 	bool validFrame = false;
 
 	//temporary frame we'll use to figure out which CAN ID has been received and where to move data to
-	RX_CAN_FRAME newFrame;
+	CAN_FRAME newFrame;
 
 	//based upon the lower-level CAN library the get_rx_buff method appears to be critical 
 	noInterrupts();

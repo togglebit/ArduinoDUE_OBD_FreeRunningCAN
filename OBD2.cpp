@@ -231,7 +231,7 @@ char* cOBDParameter::getUnits()
  *               
  * @return - a flag to accept or reject this CAN frame
  */
-bool cOBDRXFrame::CallbackRx(RX_CAN_FRAME *R)
+bool cOBDRXFrame::CallbackRx(CAN_FRAME *R)
 {
 	bool retVal = false;
 	if (R)
