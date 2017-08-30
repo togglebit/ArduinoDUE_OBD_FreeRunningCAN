@@ -1,8 +1,8 @@
 # OBD2 and CAN Acquisition Libraries
 
-These libraries were designed with contious message TX/RX (DAQ applications) in mind by implementing a periodic scheduler.
+These libraries were designed with continuous message TX/RX (DAQ applications) in mind by implementing a periodic scheduler.
 The scheduler supports both native DUE CAN ports and allows for one to easily implement a "free-running raw" CAN protocol
-or perhaps something a bit more layered such as OBD2. An OBD2 implemenation is provided, and logged CAN traffic and screen 
+or perhaps something a bit more layered such as OBD2. An OBD2 implementation is provided, and logged CAN traffic and screen
 data are provided in the repository (driveHome*.* files). 
 
 Thank you for actually reading the readme and contributing!
@@ -12,7 +12,7 @@ dan@togglebit.net
 
 
 ## Installation
-What you (probably) need to do to get it working (assuming a windows installation):
+What you (probably) need to do to get it working (assuming a Windows installation):
 
 1. download Arduino IDE R 1.6.x
 2. download all of the files from this repository
@@ -82,7 +82,7 @@ Serial.println(OBD_EngineSpeed.getUnits());
 - The underlying CAN library provided here "due_can.*" may not be the latest contributions from the DUE forum.
 - the OBD2 has only been tested on 11bit ID's with Toyota vehicle and 29bit with Honda vehicle
 - To create an OBD PID that does not yet exist see the relevant enums in the OBD2.h file.  
-- Thanks to collin80 for developing the original due_can.* libraries and ivanseidel for developoing the DUETimer libraries
+- Thanks to collin80 for developing the original due_can.* libraries and ivanseidel for developing the DUETimer libraries
 - When in doubt, check your wiring and termination resistors ;)
 
 ### Hardware Information
