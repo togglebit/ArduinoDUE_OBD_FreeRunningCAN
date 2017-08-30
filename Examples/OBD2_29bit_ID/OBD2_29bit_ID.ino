@@ -14,9 +14,6 @@ As of July 24, 2017 it has also been tested on a Buick Enclave. Works fine!
 //create the CANport acqisition schedulers
 cAcquireCAN CANport0(CAN_PORT_0);
 
-//define for M2 or other boards with only native USB
-#define Serial SerialUSB
-
 /***** DEFINITIONS FOR OBD MESSAGES ON CAN PORT 0, see https://en.wikipedia.org/wiki/OBD-II_PIDs to add your own ***************/
 //char _name[10], char _units[10], OBD_PID pid,  uint8_t OBD_PID_SIZE size, bool _signed, OBD_MODE_REQ mode, float32 slope, float32 offset, cAcquireCAN *, extended ID;
 
