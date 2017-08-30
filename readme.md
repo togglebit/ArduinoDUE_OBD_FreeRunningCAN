@@ -2,8 +2,7 @@
 
 These libraries were designed with continuous message TX/RX (DAQ applications) in mind by implementing a periodic scheduler.
 The scheduler supports both native DUE CAN ports and allows for one to easily implement a "free-running raw" CAN protocol
-or perhaps something a bit more layered such as OBD2. An OBD2 implementation is provided, and logged CAN traffic and screen
-data are provided in the repository (driveHome*.* files). 
+or perhaps something a bit more layered such as OBD2. An OBD2 implementation is provided.  Sample, logged CAN traffic and screen data are provided in the `extras` directory (the `driveHome*.*` files).
 
 Thank you for actually reading the readme and contributing!
 
