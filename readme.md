@@ -92,5 +92,4 @@ See: www.togglebit.net for the latest CANshield and protoshield hardware for the
 ### Version History
 
 * `1.1 (2015-13-09)`:
-
-
+* `1.0 (2014-18-03)`: Original release
