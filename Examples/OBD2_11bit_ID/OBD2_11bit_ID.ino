@@ -7,7 +7,8 @@ This example shows how to set up periodic data acquisition of OBD2 paramters bas
 standard PID's. If you'd like to add another paramter,simply copy one of the definitions and modify it accordingly. 
 You may also need to add a new PID to the "OBD_PID" enum in the header file. 
 
-Note as of 8/24/15 this has only been tested on one Toyota vehicle!  
+Note as of 8/24/15 this has only been tested on one Toyota vehicle!
+As of July 24, 2017 it has also been tested on a Buick Enclave. Works fine!
 /********************************************************************/
 
 //create the CANport acqisition schedulers
@@ -21,12 +22,12 @@ cAcquireCAN CANport0(CAN_PORT_0);
   cOBDParameter OBD_Throttle(   "Throttle "     , " %"  		,  THROTTLE_POS, _8BITS,   false,   CURRENT,  0.3922, 0,  &CANport0, false);
   cOBDParameter OBD_Coolant(    "Coolant "      , " C"  		,  COOLANT_TEMP, _8BITS,   false ,  CURRENT,  1,    -40,  &CANport0, false);
   cOBDParameter OBD_EngineLoad( "Load "         , " %"  		,  ENGINE_LOAD , _8BITS,   false,   CURRENT,  0.3922, 0,  &CANport0, false);
-  cOBDParameter OBD_MAF(        "MAF "          , " grams/s"    ,  ENGINE_MAF  , _16BITS,  false,   CURRENT,  0.01,   0,  &CANport0, false);
+  cOBDParameter OBD_MAF(        "MAF "          , " grams/s",  ENGINE_MAF  , _16BITS,  false,   CURRENT,  0.01,   0,  &CANport0, false);
   cOBDParameter OBD_IAT(        "IAT "          , " C"  		,  ENGINE_IAT  , _8BITS,   false ,  CURRENT,  1,    -40,  &CANport0, false);
 
 void setup()
 {
-  
+  delay(2000); //allow USB time to settle
 	//output pin that can be used for debugging purposes
 	pinMode(13, OUTPUT);      
 
@@ -35,12 +36,13 @@ void setup()
 
 	//debugging message for monitor to indicate CPU resets are occuring
 	Serial.println("System Reset");
-
-	//set up the transmission/reception of messages to occur at 500Hz (2mS) timer interrupt
-	Timer3.attachInterrupt(PrintScreen).setFrequency(1).start();
        
-        //start CAN ports,  enable interrupts and RX masks, set the baud rate here
-	CANport0.initialize(_500K);
+  //start CAN ports,  enable interrupts and RX masks, set the baud rate here
+	CANport0.initialize(AUTOBAUD);
+
+  //set up the transmission/reception of messages to occur at 500Hz (2mS) timer interrupt
+  Timer3.attachInterrupt(PrintScreen).setFrequency(1).start();
+
 }
 
 
@@ -86,5 +88,7 @@ void PrintScreen()
 	Serial.print(OBD_IAT.getData());
 	Serial.println(OBD_IAT.getUnits());         	
 
+  Serial.println();
+  Serial.println();
 }
 

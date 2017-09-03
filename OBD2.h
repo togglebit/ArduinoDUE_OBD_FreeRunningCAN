@@ -77,7 +77,7 @@ enum OBD_MODE_REQ
 class cOBDRXFrame : public cCANFrame
 {
 
-	bool  CallbackRx(RX_CAN_FRAME *R);
+	bool  CallbackRx(CAN_FRAME *R);
 };
 /**
  * this is the transmitit frame that is used to make the OBD data request CAN receiver
@@ -149,7 +149,7 @@ public:
 	 * @param I - pointer to the received CAN frame
 	 * @return -  bool this is the proper response for this PID
 	 */
-	bool receiveFrame(RX_CAN_FRAME *I);
+	bool receiveFrame(CAN_FRAME *I);
 	/**
 	 * Retreive the string representing the OBD2 signal name
 	 * 
