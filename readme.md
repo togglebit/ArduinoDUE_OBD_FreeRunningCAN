@@ -2,8 +2,7 @@
 
 These libraries were designed with continuous message TX/RX (DAQ applications) in mind by implementing a periodic scheduler.
 The scheduler supports both native DUE CAN ports and allows for one to easily implement a "free-running raw" CAN protocol
-or perhaps something a bit more layered such as OBD2. An OBD2 implementation is provided, and logged CAN traffic and screen
-data are provided in the repository (driveHome*.* files). 
+or perhaps something a bit more layered such as OBD2. An OBD2 implementation is provided.  Sample, logged CAN traffic and screen data are provided in the `extras` directory (the `driveHome*.*` files).
 
 Thank you for actually reading the readme and contributing!
 
@@ -14,13 +13,14 @@ dan@togglebit.net
 ## Installation
 What you (probably) need to do to get it working (assuming a Windows installation):
 
-1. download Arduino IDE R 1.6.x
-2. download all of the files from this repository
-3. Create a new folder called "CAN" under a path C:\Users\"XXXX"\Documents\Arduino\libraries\CAN
-4. Drop all files( *.c,*.h and *.ino) into the new folder (C:\Users\"XXXX"\Documents\Arduino\libraries\CAN) 
-5. Go to Tools->Boards->Boards Manager and download the Adruino SAM (32-bit ARM cortex-M3) boards hardware support kit
-6. Once installed, go to boards select the Arduino DUE from.  
-7. Opening any of the examples ( *.ino) files will create a new folder. 
+1. Install Arduino IDE 1.6.x or newer.
+2. Download all of the files from the [`due_can` repository](https://github.com/collin80/due_can) using the "Download ZIP" option.
+2. Download all of the files from this repository using the "Download ZIP" option.
+3. In the Arduino IDE, go to _Sketch_ -> _Include Library_ -> _Install .ZIP Library..._ and choose the ZIP file for `due_can`.
+3. Do the above again, but choosing the ZIP file for this library.
+5. Go to _Tools_ -> _Board: [...]_ -> _Boards Manager..._ and download the **Adruino SAM Boards (32-bit ARM Cortex-M3)** hardware support kit.
+6. Once installed, go to _Tools_ -> _Board: [...]_ and select **Arduino Due**.
+7. Go to _File_ -> _Examples_ -> _OBD2 and CAN Acquisition_ under the _Examples from Custom Libraries_ section to open one of the examples for this library.
 8. You will now be able to verify, upload etc.
 
 ## Getting Started with Free Running CAN
@@ -91,5 +91,6 @@ See: www.togglebit.net for the latest CANshield and protoshield hardware for the
 
 ### Version History
 
+* `1.2 (2017-06-09)`: Unbundle `due_can` library.  Update to support latest version of `due_can`.  Add support for the Arduino IDE Library manager.
 * `1.1 (2015-13-09)`:
 * `1.0 (2014-18-03)`: Original release
