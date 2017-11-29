@@ -60,9 +60,11 @@ enum ACQ_BAUD_RATE
     _250K  = 250,
     _125K  = 125,
     _50K   = 50,
-    _33k   = 33,
-    NONE   = 0,
-    AUTOBAUD = 0
+	_33k   = 33,
+    _25K   = 25,
+    _10K   = 10,
+    _5K    = 5,
+    NONE   = 0
 };
 
 /**
@@ -191,7 +193,7 @@ public:
      *
      * @return - a flag to accept or reject this CAN frame  
      */
-    virtual bool CallbackRx(CAN_FRAME *R)
+    virtual bool CallbackRx(RX_CAN_FRAME *R)
     {
         return(true);
     };
