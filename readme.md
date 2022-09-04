@@ -13,7 +13,7 @@ dan@togglebit.net
 
 ## Installation
 What you (probably) need to do to get it working (assuming a windows installation):
-1. download Arduino IDE R 1.6.x
+1. download Arduino IDE R 1.6.x or newer
 2. download all of the files from this repository
 3. Create a new folder called "CAN" under a path C:\Users\"XXXX"\Documents\Arduino\libraries\CAN
 4. Drop all files( *.c,*.h and *.ino) into the new folder (C:\Users\"XXXX"\Documents\Arduino\libraries\CAN) 
