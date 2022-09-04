@@ -77,7 +77,7 @@ What you (probably) need to do to get it working (assuming a windows installatio
         - The first revision of code was developed for functionality and not speed. For example, there is only one CAN mailbox implemented.
           Many many speed efficiencies are yet to be found and optimized.
         - The underlying CAN library provided here "due_can.*" may not be the latest contributions from the DUE forum.
-        - the OBD2 has only been tested on 11bit ID's with Toyota vehicle and 29bit with Honda vehicle
+        - the OBD2 has been tested on 11bit ID's with Toyota, Mazda and Chevy vehicles and 29bit with Honda vehicles
         - To create an OBD PID that does not yet exist see the relevant enums in the OBD2.h file.  
         - Thanks to collin80 for developing the original due_can.* libraries and ivanseidel for developoing the DUETimer libraries
         - When in doubt, check your wiring and termination resistors ;)
