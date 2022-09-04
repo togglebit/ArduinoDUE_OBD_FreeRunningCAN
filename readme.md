@@ -13,14 +13,14 @@ dan@togglebit.net
 
 ## Installation
 What you (probably) need to do to get it working (assuming a windows installation):
-        1. download Arduino IDE R 1.6.x
-        2. download all of the files from this repository
-        3. Create a new folder called "CAN" under a path C:\Users\"XXXX"\Documents\Arduino\libraries\CAN
-        4. Drop all files( *.c,*.h and *.ino) into the new folder (C:\Users\"XXXX"\Documents\Arduino\libraries\CAN) 
-        5. Go to Tools->Boards->Boards Manager and download the Adruino SAM (32-bit ARM cortex-M3) boards hardware support kit
-        6. Once installed, go to boards select the Arduino DUE from.  
-        7. Opening any of the examples ( *.ino) files will create a new folder. 
-        8. You will now be able to verify, upload etc.
+1. download Arduino IDE R 1.6.x
+2. download all of the files from this repository
+3. Create a new folder called "CAN" under a path C:\Users\"XXXX"\Documents\Arduino\libraries\CAN
+4. Drop all files( *.c,*.h and *.ino) into the new folder (C:\Users\"XXXX"\Documents\Arduino\libraries\CAN) 
+5. Go to Tools->Boards->Boards Manager and download the Adruino SAM (32-bit ARM cortex-M3) boards hardware support kit
+6. Once installed, go to boards select the Arduino DUE from.  
+7. Opening any of the examples ( *.ino) files will create a new folder. 
+8. You will now be able to verify, upload etc.
 
 ## Getting Started with Free Running CAN
 
